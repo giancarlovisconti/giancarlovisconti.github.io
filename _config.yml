@@ -6,8 +6,6 @@ description: "I'm a PhD Candidate in the Department of Government at Columbia Un
 url: "https://giancarlovisconti.com" # the base hostname & protocol for your site
 enforce_ssl: giancarlovisconti.com
 github_username:  giancarlovisconti
-permalink: /blog/:year/:month/:title.html
-google_analytics: UA-65548469-1
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
