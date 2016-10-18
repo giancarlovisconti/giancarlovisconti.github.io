@@ -2,6 +2,8 @@
 layout: default
 ---
 
+UNDER CONSTRUCTION 
+
 <img style="width=305px;height=435px;float:left;padding:10px;"
 src="/image/personal-photo.jpg" alt="profile picture" width="138" height="197">
 
