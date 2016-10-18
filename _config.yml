@@ -1,0 +1,22 @@
+# Site settings
+title: Giancarlo Visconti
+email: giancarlo.visconti@columbia.edu
+description: #"I'm a PhD Candidate in the Department of Government at UT-Austin. I study American politics, public opinion, and methods."
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+#url: "https://jabranham.com" # the base hostname & protocol for your site
+#enforce_ssl: jabranham.com
+#twitter_username: JAlexBranham
+#github_username:  jabranham
+#permalink: /blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
+theme: minima
+disqus:
+  shortname: gvisconti
+
+# needed for CI builds:
+exclude: [vendor]
