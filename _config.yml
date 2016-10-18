@@ -1,7 +1,6 @@
 # Site settings
 #title: Giancarlo Visconti
 #email: giancarlo.visconti@columbia.edu
-permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
