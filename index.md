@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img style="width=305px;height=435px;float:left;padding:10px;"
-src="/image/personal-photo.jpg" alt="profile picture" width="350" height="350">
+src="/image/personal-photo.jpg" alt="profile picture" width="300" height="300">
 
 I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, natural experiments, matching methods, design of observational studies, and Latin American politics. 
 
