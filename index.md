@@ -5,7 +5,9 @@ layout: default
 UNDER CONSTRUCTION 
 
 <img style="width=305px;height=435px;float:left;padding:10px;"
-src="/image/personal-photo.jpg" alt="profile picture" width="138" height="197">
+src="/image/personal-photo.jpg" alt="profile picture" width="200" height="200">
+
+UNDER CONSTRUCTION 
 
 I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, natural experiments, matching methods, design of observational studies, and Latin American politics. 
 
@@ -15,5 +17,5 @@ My research projects have been funded by the Social Science Research Council, th
 
 Before entering graduate school, I was a member of the research team for the Latin America Public Opinion Project (LAPOP Chile) and worked at the United Nations Development Programme (UNDP). I received a B.A in Political Science from Universidad Catolica de Chile in 2010.
 
-If you want a pdf of my CV, you can get that [here](/cv/cv.pdf)
+Check my CV [here](/cv/cv.pdf)
 
