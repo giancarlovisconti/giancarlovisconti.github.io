@@ -4,4 +4,4 @@ title: CV
 ---
 
 
-Check CV here
+Check CV here "/cv/cv.pdf"
