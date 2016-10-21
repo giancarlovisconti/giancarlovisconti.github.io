@@ -5,7 +5,7 @@ title: Fieldwork
 
 ### Paipote, Atacama Region, Chile
 
-<img src="img/paipote1.png" alt="Paipote 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+<img src="img/giancarlovisconti.github.io/img/paipote1.png" alt="Paipote 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
 <img src="img/paipote2.png" alt="Paipote 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
