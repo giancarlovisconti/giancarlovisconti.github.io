@@ -7,15 +7,21 @@ I specialize in comparative politics and quantitative methods. My research inter
 voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, 
 and Latin American politics. 
 
+<br><br>
+
 My dissertation studies how negative events affect voters’ ideological preferences. 
 In particular, I focus on the political impact of natural disasters, crime, and economic shocks 
 in Latin American countries. My work relies on design-based approaches to causal inference, such 
 as natural and conjoint experiments, and the application of strategies to reduce sensitivity to 
-unmeasured biases in observational studies. 
+unmeasured biases in observational studies. |
+
+<br><br>
 
 My research projects have been funded by the Social Science Research Council, the Institute of 
 Latin American Studies, and the Political Science Department at Columbia University. My research has 
 been published, or is forthcoming, in Electoral Studies and Revista de Ciencia Politica. 
+
+<br><br>
 
 Before entering graduate school, I was a member of the research team for the Latin America 
 Public Opinion Project (LAPOP Chile) and worked at the United Nations Development Programme (UNDP). 
