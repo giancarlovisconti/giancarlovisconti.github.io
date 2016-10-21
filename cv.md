@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: CV
 ---
 
-## Columbia University
-
-## Universidad Catolica de Chile
-
-## Diego Portales University 
+Check CV here 
