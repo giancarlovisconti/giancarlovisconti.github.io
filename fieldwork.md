@@ -7,8 +7,6 @@ title: Fieldwork
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote1.png) 
 
-![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote2.png)
-
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote3.png)
 
 ### Quito, Ecuador 
