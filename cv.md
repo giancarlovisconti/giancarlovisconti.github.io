@@ -4,4 +4,4 @@ title: CV
 ---
 
 
-Check CV here (/cv/cv)
+Check CV [here] (/cv/cv)
