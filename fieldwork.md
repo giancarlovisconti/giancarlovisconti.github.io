@@ -7,24 +7,18 @@ title: Fieldwork
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote1.png) 
 
-![Caption for the picture.](giancarlovisconti.github.io/img/paipote1.png)
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote2.png)
 
-<img src="img/giancarlovisconti.github.io/img/paipote1.png" alt="Paipote 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote3.png)
 
-<img src="img/paipote2.png" alt="Paipote 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+### Quito, Ecuador 
 
-<img src="img/paipote3.png" alt="Paipote 3" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/quito1.jpg)
 
-### Quito and Guayaquil, Ecuador 
+## Guayaquil, Ecuador 
 
-  <img src="img/quito1.jpg" alt="Quito 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
-
-<img src="img/quito2.jpg" alt="Quito 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
-
-<img src="img/guayaquil1.jpg" alt="Guayaquil 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/guayaquil1.jpg)
 
 ### San Jose, Costa Rica 
 
-<img src="img/sanjose1.jpg" alt="San Jose 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
-
-<img src="img/sanjose2.jpg" alt="San Jose 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/sanjose1.jpg)
