@@ -3,8 +3,6 @@ layout: page
 title: Teaching
 ---
 
-## Teaching Assistant 
-
 ### Columbia University
 
 Analysis of Political Data, Spring 2016, prof. Mark Lindeman.
