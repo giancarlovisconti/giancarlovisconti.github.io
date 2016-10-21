@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="images/gvOct14.jpg" alt="Giancarlo" style="float:left;width:278px;height:258px; margin-right:15px; margin-bottom:15px">
+<img src="images/bio.png" alt="Giancarlo" style="float:left;width:278px;height:258px; margin-right:15px; margin-bottom:15px">
 
 I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections,voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
  
