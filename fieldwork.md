@@ -9,13 +9,13 @@ title: Fieldwork
 
 <img src="img/paipote2.png" alt="Paipote 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
+<img src="img/paipote3.png" alt="Paipote 3" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
+
 ### Quito and Guayaquil, Ecuador 
 
   <img src="img/quito1.jpg" alt="Quito 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
 <img src="img/quito2.jpg" alt="Quito 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
-
-<img src="img/quito3.jpg" alt="Quito 3" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
 <img src="img/guayaquil1.jpg" alt="Guayaquil 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
