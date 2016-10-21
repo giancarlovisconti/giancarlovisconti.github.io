@@ -2,8 +2,8 @@
 layout: page
 ---
 
-<p>
-<img src="images/paipote.png" style="float:center;width:500px;height:500px; margin-right:15px; margin-bottom:15px">
+#<p>
+#<img src="images/paipote.png" style="float:center;width:500px;height:500px; margin-right:15px; margin-bottom:15px">
 
 I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections,voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
 
