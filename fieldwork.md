@@ -5,6 +5,10 @@ title: Fieldwork
 
 ### Paipote, Atacama Region, Chile
 
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote1.png) 
+
+![Caption for the picture.](giancarlovisconti.github.io/img/paipote1.png)
+
 <img src="img/giancarlovisconti.github.io/img/paipote1.png" alt="Paipote 1" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
 
 <img src="img/paipote2.png" alt="Paipote 2" style="float:center;width:500px;500:258px; margin-right:15px; margin-bottom:15px">
