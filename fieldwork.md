@@ -13,7 +13,7 @@ title: Fieldwork
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/quito1.jpg)
 
-## Guayaquil, Ecuador 
+### Guayaquil, Ecuador 
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/guayaquil1.jpg)
 
