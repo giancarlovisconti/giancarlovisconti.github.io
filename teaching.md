@@ -3,9 +3,9 @@ layout: page
 title: Teaching
 ---
 
-### Teaching Assistant 
+## Teaching Assistant 
 
-## Columbia University
+### Columbia University
 
 Analysis of Political Data, Spring 2016, prof. Mark Lindeman.
 
@@ -17,7 +17,7 @@ Introduction to Comparative Politics, Spring 2014, prof. Mona El Ghobashy.
 
 Pathways to Development: East Asia and Latin America, Summer 2013, prof. Pablo Pinto and Xiaodan Zhang.
 
-## Universidad Catolica de Chile
+### Universidad Catolica de Chile
 
 Introduction to Research Design, Fall 2010, 2011 and 2012, prof. Juan Pablo Luna and David Altman.
 
@@ -29,6 +29,6 @@ Political Organization in Chile, Spring 2010, prof. Mireya Davila.
 
 Workshop on Research Methods, Spring 2010, prof. Juan Pablo Luna.
 
-## Diego Portales University 
+### Diego Portales University 
 
 Introduction to Comparative Politics, Fall 2012, prof. Ana Maria Farias.
