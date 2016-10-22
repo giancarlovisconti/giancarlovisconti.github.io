@@ -9,7 +9,7 @@ title: Fieldwork
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote3.png)
 
-### Chamber of Deputies, Valpariso, Chile
+### Chamber of Deputies, Valparaiso, Chile
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/valparaiso.jpg)
 
