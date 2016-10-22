@@ -9,6 +9,10 @@ title: Fieldwork
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/paipote3.png)
 
+### Chamber of Deputies, Valpariso, Chile
+
+![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/valparaiso.jpg)
+
 ### Quito, Ecuador 
 
 ![Caption for the picture.](https://dl.dropboxusercontent.com/u/3273624/quito1.jpg)
