@@ -4,9 +4,9 @@ layout: page
 
 <img src="img/bio.png" alt="Giancarlo" style="float:left;width:320px;height:258px; margin-right:15px; margin-bottom:15px">
 
-I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
+<center> I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.</center>
  
-My dissertation studies how negative events affect voters’ ideological preferences. In particular, I focus on the political impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference, such as natural and conjoint experiments, and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.
+-> My dissertation studies how negative events affect voters’ ideological preferences. In particular, I focus on the political impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference, such as natural and conjoint experiments, and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.<-
 
 My research projects have been funded by the Social Science Research Council, the Institute of Latin American Studies, and the Political Science Department at Columbia University. My research has been published, or is forthcoming, in Electoral Studies and Revista de Ciencia Politica.
 
