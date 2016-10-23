@@ -5,7 +5,7 @@ title: Research
 
 ## Publications
 
-"Economic Performance and Incumbents' Support in Latin America" (with M.
+["Economic Performance and Incumbents' Support in Latin America"](http://www.sciencedirect.com/science/article/pii/S0261379416302244) (with M.
 Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 ["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](http://www.scielo.cl/pdf/revcipol/v31n1/art05.pdf) *Revista de Ciencia Politica* 31(1): 91-115, 2011. [In Spanish]
