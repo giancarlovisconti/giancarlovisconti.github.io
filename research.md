@@ -8,7 +8,7 @@ title: Research
 "Economic Performance and Incumbents' Support in Latin America" (with M.
 Victoria Murillo). *Electoral Studies*. Forthcoming.
 
-"Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" *Revista de Ciencia Politica* 31(1): 91-115, 2011. [In Spanish]
+["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](http://www.scielo.cl/pdf/revcipol/v31n1/art05.pdf) *Revista de Ciencia Politica* 31(1): 91-115, 2011. [In Spanish]
 
 ## Under Review 
 
