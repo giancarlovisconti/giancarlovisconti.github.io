@@ -1,8 +1,7 @@
 ---
 layout: page
-author:"Giancarlo Visconti"
-title:"Giancarlo Visconti, PhD candidate in Political Science, Columbia University"
-tags:["Giancarlo Visconti, Columbia, Chile, Political Science"]
+meta-title: Giancarlo Visconti"
+meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Columbia University"
 ---
 
 <head>
