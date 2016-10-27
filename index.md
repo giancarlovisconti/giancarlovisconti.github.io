@@ -7,7 +7,9 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
 <head>
   <meta name="author" content="Giancarlo Visconti">
   <meta name="description" content="Giancarlo Visconti's webpage">
+  <meta name="title" content="Giancarlo Visconti, Columbia University">
   <meta name="keywords" content="Giancarlo Visconti, Columbia, Chile, Political Science">
+  <meta name="tags" content="Giancarlo Visconti, Columbia, Chile, Political Science">
 </head>
 
 <img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:320px;height:258px; margin-right:15px; margin-bottom:15px">
