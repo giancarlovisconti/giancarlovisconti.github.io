@@ -2,6 +2,16 @@
 layout: page
 ---
 
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Giancarlo Visconti">
+  <title>Giancarlo Visconti</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Giancarlo Visconti's webpage">
+  <meta name="keywords" content="Giancarlo Visconti,Political Science,Columbia University,Chile">
+ </head>
+
 <img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:320px;height:258px; margin-right:15px; margin-bottom:15px">
 
 
