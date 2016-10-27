@@ -1,8 +1,8 @@
 ---
 layout: page
-meta-title: "Giancarlo Visconti - Political Science Department - Columbia University"
-meta-description: "Giancarlo Visconti, PhD candidate in Political Science at Columbia University"
-keywords: "Giancarlo Visconti, Columbia, Chile, Political Science"
+name:"Giancarlo Visconti 
+content:"Giancarlo Visconti, PhD candidate in Political Science at Columbia University"
+keywords:"Giancarlo Visconti, Columbia, Chile, Political Science"
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:320px;height:258px; margin-right:15px; margin-bottom:15px">
