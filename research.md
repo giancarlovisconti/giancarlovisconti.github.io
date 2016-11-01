@@ -14,9 +14,9 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto)
 
-"Economic Perceptions and Electoral Choices: A Design-Based Approach"
-
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares)
+
+"Economic Perceptions and Electoral Choices: A Design-Based Approach"
 
 # Working papers 
 
