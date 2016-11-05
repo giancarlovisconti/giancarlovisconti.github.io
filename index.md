@@ -14,11 +14,11 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
-<img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:300px;height:238px; margin-right:15px; margin-bottom:15px">
+<img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:290px;height:228px; margin-right:15px; margin-bottom:15px">
 
 I am a Ph.D candidate in the [Department of Political Science](http://polisci.columbia.edu/) at [Columbia University](http://www.columbia.edu/). I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
  
-My dissertation studies how negative events affect voters??? ideological preferences. In particular, I focus on the political impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference, such as natural and conjoint experiments, and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.
+My dissertation studies how negative events affect voters' ideological preferences. In particular, I focus on the political impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference, such as natural and conjoint experiments, and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.
 
 My research projects have been funded by the [Social Science Research Council](http://www.ssrc.org/programs/view/dpdf/), the [Institute of Latin American Studies](http://www.ilas.columbia.edu/), and the [Department of Political Science](http://polisci.columbia.edu/) at Columbia University. My research has been published, or is forthcoming, in Electoral Studies and Revista de Ciencia Politica.
 
