@@ -14,7 +14,7 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
-<img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:290px;height:228px; margin-right:15px; margin-bottom:15px">
+<img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:280px;height:218px; margin-right:15px; margin-bottom:15px">
 
 I am a Ph.D candidate in the [Department of Political Science](http://polisci.columbia.edu/) at [Columbia University](http://www.columbia.edu/). I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
  
