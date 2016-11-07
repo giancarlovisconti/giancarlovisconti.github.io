@@ -16,9 +16,9 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares)
 
-# Working papers 
-
 "Economic Perceptions and Electoral Choices: A Design-Based Approach"
+
+# Working papers 
 
 "Ideological Preferences after Natural Disasters" (dissertation chapter)
 
