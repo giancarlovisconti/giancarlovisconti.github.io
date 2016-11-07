@@ -12,16 +12,17 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 ## Under Review 
 
-"Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto)
+<p style="text-align: justify;">"Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto) </p>
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares)
+<p style="text-align: justify;">"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares) </p>
 
-"Economic Perceptions and Electoral Choices: A Design-Based Approach"
+<p style="text-align: justify;">"Economic Perceptions and Electoral Choices: A Design-Based Approach" </p>
 
 # Working papers 
 
-"Ideological Preferences after Natural Disasters" (dissertation chapter)
+<p style="text-align: justify;">"Ideological Preferences after Natural Disasters" (dissertation chapter) </p>
 
-"Finding the Largest Matched Sample that is Balanced by Design: A Case Study of the Effect of an Earthquake on Electoral Outcomes" (with Jose Zubizarreta)
+<p style="text-align: justify;">"Finding the Largest Matched Sample that is Balanced by Design: A Case Study of the Effect of an Earthquake on Electoral Outcomes" (with Jose Zubizarreta) </p>
 
-"Crime Victimization and Policy Preferences" (dissertation chapter)
+<p style="text-align: justify;">"Crime Victimization and Policy Preferences" (dissertation chapter) </p>
+
