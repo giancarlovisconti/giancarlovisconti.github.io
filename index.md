@@ -16,7 +16,7 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
 
 <img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:260px;height:200px; margin-right:15px; margin-bottom:15px">
 
-I am a Ph.D candidate in the [Department of Political Science](http://polisci.columbia.edu/) at [Columbia University](http://www.columbia.edu/). I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.
+<p style="text-align: justify;">I am a Ph.D candidate in the [Department of Political Science](http://polisci.columbia.edu/) at [Columbia University](http://www.columbia.edu/). I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, electoral reforms, natural experiments, matching methods, design of observational studies, and Latin American politics.</p>
  
 My dissertation studies how negative events affect voters' ideological preferences. In particular, I focus on the political impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference, such as natural and conjoint experiments, and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.
 
