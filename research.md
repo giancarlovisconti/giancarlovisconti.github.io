@@ -10,15 +10,13 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 ["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](http://www.scielo.cl/pdf/revcipol/v31n1/art05.pdf) *Revista de Ciencia Politica* 31(1): 91-115, 2011. [In Spanish]
 
-## Under Review 
+## Working Papers
 
 "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto)
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares)
 
 "Economic Perceptions and Electoral Choices: A Design-Based Approach"
-
-# Work in Progress
 
 "Ideological Preferences after Natural Disasters" (dissertation chapter)
 
