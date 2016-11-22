@@ -18,7 +18,7 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 "Economic Perceptions and Electoral Choices: A Design-Based Approach"
 
-# Working papers 
+# Work in Progress
 
 "Ideological Preferences after Natural Disasters" (dissertation chapter)
 
