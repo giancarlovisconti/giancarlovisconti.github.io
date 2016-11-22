@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-## Publications
+############ Publications
 
 ["Economic Performance and Incumbents' Support in Latin America"](http://www.sciencedirect.com/science/article/pii/S0261379416302244) (with M.
 Victoria Murillo). *Electoral Studies*. Forthcoming.
