@@ -20,6 +20,6 @@ Victoria Murillo). *Electoral Studies*. Forthcoming.
 
 "Ideological Preferences after Natural Disasters" (dissertation chapter)
 
-"Finding the Largest Matched Sample that is Balanced by Design: A Case Study of the Effect of an Earthquake on Electoral Outcomes" (with Jose Zubizarreta)
+"Finding the Largest Matched Sample that is Balanced by Design: A Case Study of the Effect of an Earthquake on Electoral Outcomes" (with José Zubizarreta)
 
 "Crime Victimization and Policy Preferences" (dissertation chapter)
