@@ -28,12 +28,12 @@ Victoria Murillo). ***Electoral Studies***. Forthcoming.
 
 ## Dissertation chapters 
 
-"Crime Victimization and Policy Preferences" (dissertation chapter)
+"Crime Victimization and Policy Preferences" 
 
-"Ideological Preferences after Natural Disasters" (dissertation chapter)
+"Ideological Preferences after Natural Disasters" 
 
-"Collective versus Individual Priorities: Evidence from a Large Natural Disaster" (dissertation chapter) 
+"Collective versus Individual Priorities: Evidence from a Large Natural Disaster" 
 
-"Ideological Voting in Latin America Revisited" (dissertation chapter) 
+"Ideological Voting in Latin America Revisited" 
 
 
