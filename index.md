@@ -24,4 +24,4 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
 
 <p style="text-align: justify;">Before entering graduate school, I was a member of the research team for the Latin American Public Opinion Project (LAPOP Chile) and worked at the United Nations Development Programme (UNDP). I received a B.A in Political Science from Universidad Católica de Chile in 2010.</p>
 
-**Email**: giancarlo.visconti@columbia.edu
+**Email**: giancarlo.viscontiATcolumbia.edu
