@@ -12,4 +12,4 @@ layout: page
 
 <p style="text-align: justify;">Antes de comenzar mi doctorado, trabajé en el equipo de investigación de LAPOP Chile y en el proyecto auditoria de la democracia del PNUD. Soy cientista político de la Universidad Católica de Chile.</p>
 
-**Email**: giancarlo.viscontiATcolumbia.edu
+**Email**: giancarlo.viscontiARROBAcolumbia.edu
