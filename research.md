@@ -28,7 +28,7 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 
 "Collective versus Individual Priorities: Evidence from a Large Natural Disaster" (dissertation chapter) 
 
-"Ideological Voting in Latin America Revisited" (dissertation chapter) 
+"Ideological Voting Revisited" (dissertation chapter) 
 
 "Who Gets the Programs? Distributive Politics in Chile."
 
