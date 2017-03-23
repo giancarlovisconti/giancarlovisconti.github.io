@@ -12,9 +12,9 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 
 ## Working papers
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Revise and Resubmit, ***Journal of Politics***.
+"Economic Perceptions and Electoral Choices: A Design-Based Approach." Conditionally accepted, ***Political Science Research and Methods***.
 
-"Economic Perceptions and Electoral Choices: A Design-Based Approach." Revise and Resubmit, ***Political Science Research and Methods***.
+"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Revise and Resubmit, ***Journal of Politics***.
 
 "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). Revise and Resubmit, ***Latin American Politics and Society***.
 
