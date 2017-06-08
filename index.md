@@ -20,7 +20,7 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
  
 <p style="text-align: justify;">My dissertation studies how negative events affect voters' political preferences. In particular, I focus on the impact of natural disasters, crime, and economic shocks in Latin American countries. My work relies on design-based approaches to causal inference and the application of strategies to reduce sensitivity to unmeasured biases in observational studies.</p>
 
-<p style="text-align: justify;">My research projects have been funded by the Social Science Research Council, the Institute of Latin American Studies, and the Department of Political Science at Columbia University. My research has been published, or is forthcoming, in **Electoral Studies** and **Revista de Ciencia Política**.</p>
+<p style="text-align: justify;">My research projects have been funded by the Social Science Research Council, the Institute of Latin American Studies, and the Department of Political Science at Columbia University. My research has been published, or is forthcoming, in _Electoral Studies_ and **Revista de Ciencia Política**.</p>
 
 <p style="text-align: justify;">Before entering graduate school, I was a member of the research team for the Latin American Public Opinion Project (LAPOP Chile) and worked at the United Nations Development Programme (UNDP). I received a B.A in Political Science from Universidad Católica de Chile in 2010.</p>
 
