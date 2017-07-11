@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://dl.dropboxusercontent.com/u/3273624/bio.png" alt="Giancarlo" style="float:left;width:320px;height:450px; margin-right:15px; margin-bottom:15px">
+<img src="https://www.dropbox.com/s/rj9zn3jio8cqi5r/bio.png?raw=1" alt="Giancarlo" style="float:left;width:320px;height:450px; margin-right:15px; margin-bottom:15px">
 
 <p style="text-align: justify;">Mi nombre es Giancarlo Visconti, y soy candidato a doctor en el Departamento de Ciencia Política en la Universidad de Columbia. Me especializo en política comparada y métodos cuantitativos. Mis intereses de investigación incluyen elecciones, comportamiento electoral, experimentos naturales, métodos de matching, diseño de estudios observacionales, y política en América Latina.</p>
 
