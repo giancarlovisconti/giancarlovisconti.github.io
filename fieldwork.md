@@ -19,7 +19,7 @@ title: Fieldwork
 
 ### Guayaquil, Ecuador 
 
-![Caption for the picture.]https://www.dropbox.com/s/342172zaahhfu4q/guayaquil1.jpg?raw=1)
+![Caption for the picture.](https://www.dropbox.com/s/342172zaahhfu4q/guayaquil1.jpg?raw=1)
 
 ### San Jose, Costa Rica 
 
