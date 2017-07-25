@@ -31,3 +31,5 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 "Ideological Voting in Adverse Conditions" (dissertation chapter) 
 
 "Who Gets the Programs? Distributive Politics in Chile."
+
+## Updated March 2017
