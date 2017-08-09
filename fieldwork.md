@@ -5,7 +5,7 @@ title: Fieldwork
 
 ### Paipote, Atacama Region, Chile
 
-![Caption for the picture.](https://www.dropbox.com/s/7tlyqh2h9cwhoc6/paipote1.png?raw=1) 
+![Caption for the picture.](/img/paipote1.png) 
 
 ![Caption for the picture.](https://www.dropbox.com/s/71axm8vkarwluhl/paipote3.png?raw=1)
 
