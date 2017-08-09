@@ -7,20 +7,20 @@ title: Fieldwork
 
 ![Caption for the picture.](/img/paipote1.png) 
 
-![Caption for the picture.](https://www.dropbox.com/s/71axm8vkarwluhl/paipote3.png?raw=1)
+![Caption for the picture.](/img/paipote3.png)
 
 ### Chamber of Deputies, Valparaiso, Chile
 
-![Caption for the picture.](https://www.dropbox.com/s/dy4r0o8u87zhukw/valparaiso.jpg?raw=1)
+![Caption for the picture.](/img/valparaiso.jpg)
 
 ### Quito, Ecuador 
 
-![Caption for the picture.](https://www.dropbox.com/s/9my9e5iniecbvt9/quito1.jpg?raw=1)
+![Caption for the picture.](/img/quito1.jpg)
 
 ### Guayaquil, Ecuador 
 
-![Caption for the picture.](https://www.dropbox.com/s/342172zaahhfu4q/guayaquil1.jpg?raw=1)
+![Caption for the picture.](/img/guayaquil1.jpg)
 
 ### San Jose, Costa Rica 
 
-![Caption for the picture.](https://www.dropbox.com/s/1opiqsznf5lojqj/sanjose1.jpg?raw=1)
+![Caption for the picture.](/img/sanjose1.jpg)
