@@ -5,10 +5,10 @@ title: Research
 
 ## Publications
 
-["Economic Performance and Incumbents' Support in Latin America"](http://www.sciencedirect.com/science/article/pii/S0261379416302244) (with M.
+["Economic Performance and Incumbents' Support in Latin America"](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) (with M.
 Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017. 
 
-["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](http://www.scielo.cl/pdf/revcipol/v31n1/art05.pdf) ***Revista de Ciencia Politica*** 31(1): 91-115, 2011. [In Spanish]
+["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](/pdfs/Visconti.2011.RCP.pdf) ***Revista de Ciencia Politica*** 31(1): 91-115, 2011. [In Spanish]
 
 ## Working papers
 
