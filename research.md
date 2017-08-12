@@ -34,4 +34,4 @@ title: Research
 "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
 
-***Updated August 2017***
+#***Updated August 2017***
