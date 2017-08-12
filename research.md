@@ -5,6 +5,10 @@ title: Research
 
 ## Publications
 
+["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with Gabriel Negretto). Conditionally accepted, ***Latin American Politics and Society***.
+
+["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***.
+
 ["Economic Performance and Incumbents' Support in Latin America"](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) (with M.
 Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017. 
 
@@ -12,24 +16,23 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 
 ## Working papers
 
-"Economic Perceptions and Electoral Choices: A Design-Based Approach." Conditionally accepted, ***Political Science Research and Methods***.
+"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Revise and Resubmit, *under review*. 
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Revise and Resubmit, ***Journal of Politics***.
+"Policy "Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
 
-"Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). Revise and Resubmit, ***Latin American Politics and Society***.
+"After the Flood: Natural Disasters and Political Preferences in Chile."
 
-"Finding the Largest Matched Sample that is Balanced by Design: A Case Study of the Effect of an Earthquake on Electoral Outcomes" (with José Zubizarreta).
+"Using Cardinality Matching to Flexibly Handle Limited Overlap in Covariate Distributions" (with Jose Zubizarreta).
 
-"Crime Victimization and Policy Preferences" (dissertation chapter)
-
-"Ideological Preferences after Natural Disasters" (dissertation chapter)
+"Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares).
 
 ## Work in Progress
 
-"Collective versus Individual Priorities: Evidence from a Large Natural Disaster" (dissertation chapter) 
+"Voting in Adverse Conditions: Evidence from a Survey Experiment in Chile."
 
-"Ideological Voting in Adverse Conditions" (dissertation chapter) 
+"Who is the Distributor? Heterogeneity in Transfers to Local Governments."
 
-"Who Gets the Programs? Distributive Politics in Chile."
+"Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
+Urpelainen).
 
-***Updated March 2017***
+***Updated August 2017***
