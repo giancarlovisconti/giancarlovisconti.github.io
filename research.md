@@ -18,7 +18,7 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares), *under review*. 
 
-"Policy "Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
+"Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
 
 "After the Flood: Natural Disasters and Political Preferences in Chile."
 
