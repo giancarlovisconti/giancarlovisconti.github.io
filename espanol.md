@@ -6,7 +6,7 @@ layout: page
 
 <p style="text-align: justify;">Mi nombre es Giancarlo Visconti, y soy candidato a doctor en el Departamento de Ciencia Política en la Universidad de Columbia. Me especializo en política comparada y métodos cuantitativos. Mis intereses de investigación incluyen elecciones, comportamiento electoral, experimentos naturales, métodos de matching, diseño de estudios observacionales, y política en América Latina.</p>
 
-<p style="text-align: justify;">Mi tesis doctoral estudia como ciertos eventos negativos afectan las preferencias políticas de los votantes. En particular, me focalizo en el impacto de desastres naturales, crimenes, y shocks económicos en paises de América Latina. Mi trabajo se basa en métodos de inferencia causal y en la aplicacion de estrategias para reducir la sensibilidad a variables no observadas en estudios observacionales.</p>
+<p style="text-align: justify;">Mi tesis doctoral estudia como ciertos eventos negativos afectan las preferencias políticas de los votantes. En particular, me focalizo en el impacto de desastres naturales, crimenes, y shocks económicos en paises de América Latina. Mi trabajo se basa en distintos métodos para establecer inferencias causales desde datos experimentales y observacionales.</p>
 
 <p style="text-align: justify;">Mis proyectos de investigación han sido financiados por el Social Science Research Council, el Institute of Latin American Studies, y el Departamento de Ciencia Política en la Universidad de Columbia. Mi investigación ha sido publicada, o esta por ser publicada, en Political Science Research and Methods, Electoral Studies y en la Revista de Ciencia Política.</p>
 
