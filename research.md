@@ -15,22 +15,22 @@ title: Research
 
 ## Working papers
 
-5. "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)), *under review*. 
+5.- "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)), *under review*. 
 
-4. "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
+4.- "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
 
-3. "After the Flood: Natural Disasters and Political Preferences in Chile."
+3.- "After the Flood: Natural Disasters and Political Preferences in Chile."
 
-2. "Using Cardinality Matching to Flexibly Handle Limited Overlap in Covariate Distributions" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)).
+2.- "Using Cardinality Matching to Flexibly Handle Limited Overlap in Covariate Distributions" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)).
 
-1. "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with [Isabela Mares](http://www.isabelamares.org/)).
+1.- "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with [Isabela Mares](http://www.isabelamares.org/)).
 
 ## Work in Progress
 
-3. "Voting in Adverse Conditions: Evidence from a Survey Experiment in Chile."
+3.- "Voting in Adverse Conditions: Evidence from a Survey Experiment in Chile."
 
-2. "Who is the Distributor? Heterogeneity in Transfers to Local Governments."
+2.- "Who is the Distributor? Heterogeneity in Transfers to Local Governments."
 
-1. "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
+1.- "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
 
