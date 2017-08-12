@@ -5,13 +5,13 @@ title: Research
 
 ## Publications
 
-4. ["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with [Gabriel Negretto](https://gabrielnegretto.com/)). Conditionally accepted, ***Latin American Politics and Society***.
+4.- ["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with [Gabriel Negretto](https://gabrielnegretto.com/)). Conditionally accepted, ***Latin American Politics and Society***.
 
-3. ["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***.
+3.- ["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***.
 
-2. ["Economic Performance and Incumbents' Support in Latin America"](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. ***Electoral Studies***. 45: 180-190.
+2.- ["Economic Performance and Incumbents' Support in Latin America"](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. ***Electoral Studies***. 45: 180-190.
 
-1. ["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](/pdfs/Visconti.2011.RCP.pdf) 2011. ***Revista de Ciencia Politica*** 31(1): 91-115. [In Spanish]
+1.- ["Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?"](/pdfs/Visconti.2011.RCP.pdf) 2011. ***Revista de Ciencia Politica*** 31(1): 91-115. [In Spanish]
 
 ## Working papers
 
