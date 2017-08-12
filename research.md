@@ -16,7 +16,7 @@ Victoria Murillo). ***Electoral Studies***. 45: 180-190, 2017.
 
 ## Working papers
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Revise and Resubmit, *under review*. 
+"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares), *under review*. 
 
 "Policy "Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
 
