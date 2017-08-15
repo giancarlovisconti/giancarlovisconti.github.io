@@ -5,9 +5,9 @@ title: Research
 
 ## Publications
 
-["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with [Gabriel Negretto](https://gabrielnegretto.com/)). Conditionally accepted, ***Latin American Politics and Society***.
-
 ["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***.
+
+["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with [Gabriel Negretto](https://gabrielnegretto.com/)). Forthcoming, ***Latin American Politics and Society***.
 
 ["Economic Performance and Incumbents' Support in Latin America"](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. ***Electoral Studies***. 45: 180-190.
 
