@@ -18,7 +18,7 @@ title: Research
 
 "After the Flood: Natural Disasters and Political Preferences in Chile." *Job Market Paper*. [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
 
-["Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America."] *Under Review*. [[Paper]] (/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
+["Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America."] *Under Review*. [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)). *Under Review*. 
 
