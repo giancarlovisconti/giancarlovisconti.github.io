@@ -9,7 +9,7 @@ title: Research
 
 "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](https://gabrielnegretto.com/)). Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Negretto and Visconti.2017.LAPS.pdf)
 
-"Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies* 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) 
+"Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies* 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
 
 "Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" 2011. *Revista de Ciencia Politica* 31(1): 91-115 [In Spanish]. 
 [[Paper]](/pdfs/Visconti.2011.RCP.pdf)
