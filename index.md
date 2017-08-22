@@ -16,7 +16,7 @@ meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Colum
 
 <img src="/img/bio.png" alt="Giancarlo" style="float:left;width:320px;height:450px; margin-right:15px; margin-bottom:15px">
 
-<p style="text-align: justify;">I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include elections, voting behavior, distributive politics, causal inference, and Latin American politics.</p>
+<p style="text-align: justify;">I am a Ph.D candidate in the Department of Political Science at Columbia University. I specialize in comparative politics and quantitative methods. My research interests include political behavior, political parties, distributive politics, causal inference, and Latin American politics.</p>
  
 <p style="text-align: justify;">My research projects have been funded by the Social Science Research Council, the Institute of Latin American Studies, and the Department of Political Science at Columbia University. My research has been published, or is forthcoming, in Political Science Research and Methods, Electoral Studies, Latin American Politics and Society, and Revista de Ciencia Política.</p> 
 
