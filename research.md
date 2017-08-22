@@ -5,7 +5,7 @@ title: Research
 
 ## Publications
 
-["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***.
+["Economic Perceptions and Electoral Choices: A Design-Based Approach"](/pdfs/Visconti.2017.PSRM.pdf). Forthcoming, ***Political Science Research and Methods***. [Appendix](/pdfs/Visconti.2017.PSRM_appendix.pdf).
 
 ["Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America"](/pdfs/Negretto and Visconti.2017.LAPS.pdf) (with [Gabriel Negretto](https://gabrielnegretto.com/)). Forthcoming, ***Latin American Politics and Society***.
 
@@ -15,11 +15,11 @@ title: Research
 
 ## Working papers
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)), *under review*. 
+["After the Flood: Natural Disasters and Political Preferences in Chile"](/pdfs/Visconti.2017.Floods.pdf). [Appendix](/pdfs/Visconti.2017.Floods_appendix.pdf). *Job Market Paper*.
 
-"Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America," *under review*.
+["Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America"](/pdfs/Visconti.2017.Crime.pdf). [Appendix](/pdfs/Visconti.2017.Crime_appendix.pdf). *Under Review*.
 
-"After the Flood: Natural Disasters and Political Preferences in Chile."
+"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)). *Under Review*. 
 
 "Using Cardinality Matching to Flexibly Handle Limited Overlap in Covariate Distributions" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)).
 
