@@ -59,8 +59,7 @@ would not vote for in other contexts.</p>
 react to negative events. If they are strategic, they should also update their policies leftwards after natural
 disasters. For example, I have collected preliminary evidence showing that right-wing presidents in
 Chile tend to adopt traditional left-wing policies, such as increasing taxes, after catastrophes. I plan to
-keep collecting evidence to test a theory that describes how parties and politicians react to events that affect their constituents. My book project, Voters and Parties’ Preferences in Adverse Conditions, combines my
-dissertation (how voters react to negative events) with this new agenda (how parties react to negative events). </p>
+keep collecting evidence to test a theory that describes how parties and politicians react to events that affect their constituents. My book project, "Voters and Parties’ Preferences in Adverse Conditions," combines my dissertation (how voters react to negative events) with this new agenda (how parties react to negative events). </p>
 
 
 
