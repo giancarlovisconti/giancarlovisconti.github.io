@@ -9,9 +9,7 @@ citizens’ incomes and diminish their living conditions. Do voters change their
 the incumbent candidate or party based on a model of (mis)attribution of responsibilities. This approach
 overlooks the forward-looking dimension of electoral decisions. When the incumbent has handled a negative
 event poorly, we can expect that voters will punish her or him and select a candidate from among the
-pool of challengers, but we do not know which other candidate would be more likely to be preferred. My
-research contributes to understanding what kind of political authorities will be preferred by disaster and
-crime victims. In my dissertation, Political Preferences in Adverse Conditions, I argue that affected citizens,
+pool of challengers, but we do not know which other candidate would be more likely to be preferred. In my dissertation, Political Preferences in Adverse Conditions, I argue that affected citizens,
 besides blaming or rewarding incumbents for how they responded to the negative shock, are also selecting
 the political candidate who they believe can best enhance their welfare. I hold that victims focus on improving
 their standard of living, which will affect the policy issues they most care about. As a consequence,
@@ -54,14 +52,3 @@ welfare and iron-fist policies) with particular ideological labels (e.g., left a
 to the context. In addition, voters can exploit simple shortcuts to connect candidates with their new policy
 concerns. As a consequence, disaster and crime victims are more prone to vote for candidates whom they
 would not vote for in other contexts.</p>
-
-<p style="text-align: justify;">Moving forward, I have begun to expand my research agenda to examine how parties and candidates
-react to negative events. If they are strategic, they should also update their policies leftwards after natural
-disasters. For example, I have collected preliminary evidence showing that right-wing presidents in
-Chile tend to adopt traditional left-wing policies, such as increasing taxes, after catastrophes. I plan to
-keep collecting evidence to test a theory that describes how parties and politicians react to events that affect their constituents. My book project, "Voters and Parties’ Preferences in Adverse Conditions," combines my dissertation (how voters react to negative events) with this new agenda (how parties react to negative events). </p>
-
-
-
-
-
