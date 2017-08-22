@@ -19,7 +19,7 @@ title: Research
 
 ["Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America."](/pdfs/Visconti.2017.Crime.pdf) *Under Review*. [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf).
 
-"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania." (with [Isabela Mares](http://www.isabelamares.org/)) *Under Review*. 
+"Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)). *Under Review*. 
 
 "Using Cardinality Matching to Flexibly Handle Limited Overlap in Covariate Distributions" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)).
 
