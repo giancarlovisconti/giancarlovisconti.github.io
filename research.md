@@ -22,9 +22,9 @@ title: Research
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](http://www.isabelamares.org/)). *Under Review*. [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
-"Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)).
+"Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [Jose R. Zubizarreta](https://scholar.google.com/citations?user=p_P5DAcAAAAJ&hl=en)). [[Abstract]](/pdfs/Visconti and Zubizarreta.2017.Abstract.pdf)
 
-"Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with [Isabela Mares](http://www.isabelamares.org/)).
+"Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with [Isabela Mares](http://www.isabelamares.org/)). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
 ## Work in Progress
 
