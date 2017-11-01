@@ -22,7 +22,7 @@ title: Research
 
 "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). *Under Review*. [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
-"Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Abstract]](/pdfs/Visconti and Zubizarreta.2017.Abstract.pdf)
+"Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta)*Under Review*. [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
 "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
@@ -34,4 +34,6 @@ title: Research
 
 "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
+
+"Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
