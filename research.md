@@ -16,13 +16,13 @@ title: Research
 
 ## Working papers
 
-[5] "After the Flood: Natural Disasters and Political Preferences in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
+[5] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
 
-[6] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
+[6] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
-[7] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
+[7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
-[8] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
+[8] "After the Flood: Natural Disasters and Political Preferences in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
 
 [9] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
