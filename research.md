@@ -28,7 +28,7 @@ title: Research
 
 ## Work in Progress
 
-[10] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities"
+[10] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities."
 
 [11] "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
