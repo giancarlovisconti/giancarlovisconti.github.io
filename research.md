@@ -16,19 +16,19 @@ title: Research
 
 ## Working papers
 
-[5] "After the Flood: Natural Disasters and Political Preferences in Chile." *Job Market Paper*. [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
+[5] "After the Flood: Natural Disasters and Political Preferences in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
 
-[6] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." *Under Review*. [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
+[6] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
 
-[7] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). *Under Review*. [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
+[7] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
-[8] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). *Under Review*. [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
+[8] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
 [9] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
 ## Work in Progress
 
-[10] "Voting in Adverse Conditions: Evidence from a Survey Experiment in Chile."
+[10] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities"
 
 [11] "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
@@ -37,5 +37,4 @@ Urpelainen).
 
 [13] "Who is the Distributor? Heterogeneity in Transfers to Local Governments."
 
-[14] "Selfish Citizens: How Do Disaster Victims Modify their Political Priorities?"
-
+[14] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plesbiscite."
