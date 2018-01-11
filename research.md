@@ -22,7 +22,7 @@ title: Research
 
 [7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
-[8] "After the Flood: Natural Disasters and Political Preferences in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
+[8] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
 
 [9] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
