@@ -24,7 +24,7 @@ title: Research
 
 [8] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
 
-[9] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities."
+[9] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
 [[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
 
 [10] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
