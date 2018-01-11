@@ -22,13 +22,14 @@ title: Research
 
 [7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
-[8] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2017.Floods.pdf) [[Appendix]](/pdfs/Visconti.2017.Floods_appendix.pdf)
+[8] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
 
-[9] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
+[9] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities."
+[[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
+
+[10] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
 ## Work in Progress
-
-[10] "Self-interested Citizens: How Disaster Victims Modify their Political Priorities."
 
 [11] "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
