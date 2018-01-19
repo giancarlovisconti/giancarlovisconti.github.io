@@ -7,7 +7,7 @@ title: Research
 
 [1] "Economic Perceptions and Electoral Choices: A Design-Based Approach." Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Visconti.2017.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2017.PSRM_appendix.pdf)
 
-[2] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Negretto and Visconti.2017.LAPS.pdf)
+[2] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). 2018. *Latin American Politics and Society* 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
 [3] "Economic Performance and Incumbents' Support in Latin America" (with M. Victoria Murillo). 2017. *Electoral Studies* 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
 
