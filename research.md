@@ -36,6 +36,6 @@ Urpelainen).
 
 [12] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
-[13] "Who is the Distributor? Heterogeneity in Transfers to Local Governments."
+[13] "Who is the Distributor? Explaining Variation in Transfers to Local Governments."
 
-[14] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plesbiscite."
+[14] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plebiscite."
