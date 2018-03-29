@@ -22,20 +22,22 @@ title: Research
 
 [7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
-[8] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
+[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2018.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2018.Chile_ideology_appendix.pdf)
 
-[9] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
+[9] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
+
+[10] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
 [[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
-
-[10] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_2.pdf)
 
 ## Work in Progress
 
-[11] "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
+[11] "Vice or Virtue? The Electoral Evaluation of Different Forms of Corruption" (with Isabela Mares).
+
+[12] "Ending Caste-Based Discrimination in Public Policy" (with Chao-yo Cheng, Ryan Kennedy, and Johannes
 Urpelainen).
 
-[12] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
+[13] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
-[13] "Who is the Distributor? Explaining Variation in Transfers to Local Governments."
+[14] "Who is the Distributor? Explaining Variation in Transfers to Local Governments."
 
-[14] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plebiscite."
+[15] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plebiscite."
