@@ -20,7 +20,7 @@ title: Research
 
 [6] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
-[7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with Jose R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
+[7] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with José R. Zubizarreta). [[Paper]](/pdfs/Visconti and Zubizarreta.2017.Handling.pdf) [[Appendix]](/pdfs/Visconti and Zubizarreta.2017.Handling_appendix.pdf)
 
 [8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2018.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2018.Chile_ideology_appendix.pdf)
 
