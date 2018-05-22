@@ -5,18 +5,18 @@ title: Research
 
 ## Publications
 
-[1] "Economic Perceptions and Electoral Choices: A Design-Based Approach." Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Visconti.2017.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2017.PSRM_appendix.pdf)
+[1] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." Forthcoming. *British Journal of Political Science*. [[Paper]](/pdfs/Visconti.2018.Crime.pdf) [[Appendix]](/pdfs/Visconti.2018.Crime_appendix.pdf)
 
-[2] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). 2018. *Latin American Politics and Society* 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
+[2] "Economic Perceptions and Electoral Choices: A Design-Based Approach." Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Visconti.2017.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2017.PSRM_appendix.pdf)
 
-[3] "Economic Performance and Incumbents' Support in Latin America" (with M. Victoria Murillo). 2017. *Electoral Studies* 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
+[3] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). 2018. *Latin American Politics and Society* 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
-[4] "Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" 2011. *Revista de Ciencia Politica* 31(1): 91-115 [In Spanish]. 
+[4] "Economic Performance and Incumbents' Support in Latin America" (with M. Victoria Murillo). 2017. *Electoral Studies* 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
+
+[5] "Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" 2011. *Revista de Ciencia Politica* 31(1): 91-115 [In Spanish]. 
 [[Paper]](/pdfs/Visconti.2011.RCP.pdf)
 
 ## Working papers
-
-[5] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." [[Paper]](/pdfs/Visconti.2017.Crime.pdf) [[Appendix]](/pdfs/Visconti.2017.Crime_appendix.pdf)
 
 [6] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). [[Abstract]](/pdfs/Mares and Visconti.2017.Abstract_1.pdf)
 
