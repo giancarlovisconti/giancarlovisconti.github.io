@@ -1,16 +1,16 @@
 ---
 layout: page
 meta-title: Giancarlo Visconti"
-meta-description: "Giancarlo Visconti, PhD candidate in Political Science, Columbia University"
+meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, Purdue University, Columbia University"
 ---
 
 <head>
   <title> Giancarlo Visconti </title>
   <meta name="author" content="Giancarlo Visconti">
   <meta name="description" content="Giancarlo Visconti's webpage">
-  <meta name="title" content="Giancarlo Visconti, Columbia University">
-  <meta name="keywords" content="Giancarlo Visconti, Columbia, Chile, Political Science">
-  <meta name="tags" content="Giancarlo Visconti, Columbia, Chile, Political Science">
+  <meta name="title" content="Giancarlo Visconti, Purdue University">
+  <meta name="keywords" content="Giancarlo Visconti, Columbia, Purdue, Chile, Political Science">
+  <meta name="tags" content="Giancarlo Visconti, Columbia, Purdue, Chile, Political Science, Disasters, Crime, Economic">
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
@@ -20,4 +20,4 @@ Welcome! I recently defended my dissertation in Political Science at [Columbia U
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, and *Revista de Ciencia Política*.
 
-**Email**: gviscontATpurdueDOTedu
+**Email**: gviscont[AT]purdue[DOT]edu

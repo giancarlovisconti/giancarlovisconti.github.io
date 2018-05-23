@@ -8,4 +8,4 @@ layout: page
 
 Mi investigación ha sido publicada, o esta por ser publicada, en *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, y en la *Revista de Ciencia Política*.
 
-**Email**: gviscontARROBApurduePUNTOedu
+**Email**: gviscont[ARROBA]purdue[PUNTO]edu
