@@ -23,7 +23,7 @@ title: Giancarlo Visconti
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv"
+  #CV: "cv"
   Research: "research"
   #Dissertation: "dissertation"
   #Teaching: "teaching"
