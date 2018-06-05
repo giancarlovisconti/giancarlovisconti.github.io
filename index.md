@@ -20,6 +20,6 @@ Welcome! I recently defended my dissertation in Political Science at [Columbia U
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, and *Revista de Ciencia Política*.
 
-You can find my CV [here](/pdfs/cv_may2018.pdf){:target="_blank"} (updated May 2018)
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?view_op=list_works&hl=en&user=IYungBYAAAAJ)
+My CV can be downloaded [here](/pdfs/cv_may2018.pdf){:target="_blank"} (updated May 2018) and my Google Scholar page is [here](https://scholar.google.com/citations?view_op=list_works&hl=en&user=IYungBYAAAAJ).
+
 **Email**: gviscont[AT]purdue[DOT]edu
