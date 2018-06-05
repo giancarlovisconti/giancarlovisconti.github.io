@@ -20,6 +20,6 @@ Welcome! I recently defended my dissertation in Political Science at [Columbia U
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, and *Revista de Ciencia Política*.
 
-**Email**: gviscont[AT]purdue[DOT]edu.
+**Email**: gviscont[AT]purdue[DOT]edu.\\
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=IYungBYAAAAJ)
 
