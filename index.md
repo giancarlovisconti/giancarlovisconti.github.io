@@ -18,7 +18,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 Welcome! I recently defended my dissertation in Political Science at [Columbia University](https://polisci.columbia.edu/). I will be joining the Department of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/) as an Assistant Professor in Fall 2018. My research interests include political behavior, distributive politics, causal inference, and Latin American politics.
 
-My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, and *Revista de Ciencia Política*. 
+My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Observational Studies*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, and *Revista de Ciencia Política*. 
 
 **Email**: gviscont[AT]purdue[DOT]edu.
 
