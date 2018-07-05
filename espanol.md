@@ -6,6 +6,6 @@ layout: page
 
 ¡Bienvenido/a! Recientemente defendí mi tesis doctoral en Ciencia Política en la [Universidad de Columbia](https://polisci.columbia.edu/). Desde el próximo semestre seré profesor asistente en el Departmento de Ciencia Política en la [Universidad de Purdue](https://www.cla.purdue.edu/polsci/). Mis intereses de investigación incluyen comportamiento electoral, política distributiva, inferencia causal, y política en América Latina.
 
-Mi investigación ha sido publicada, o esta por ser publicada, en *British Journal of Political Science*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, y en la *Revista de Ciencia Política*.
+Mi investigación ha sido publicada, o esta por ser publicada, en *British Journal of Political Science*, *Observational Studies*, *Political Science Research and Methods*, *Electoral Studies*, *Latin American Politics and Society*, y en la *Revista de Ciencia Política*.
 
 **Email**: gviscont[ARROBA]purdue[PUNTO]edu
