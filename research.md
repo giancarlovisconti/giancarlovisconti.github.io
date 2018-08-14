@@ -7,9 +7,9 @@ title: Research
 
 [1] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." Forthcoming. *British Journal of Political Science*. [[Paper]](/pdfs/Visconti.2018.Crime.pdf) [[Appendix]](/pdfs/Visconti.2018.Crime_appendix.pdf)
 
-[2] "Economic Perceptions and Electoral Choices: A Design-Based Approach." Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Visconti.2017.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2017.PSRM_appendix.pdf)
+[2] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with José R. Zubizarreta). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
-[3] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with José R. Zubizarreta). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
+[3] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2017. *Political Science Research and Methods*, 1-19. [[Paper]](/pdfs/Visconti.2017.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2017.PSRM_appendix.pdf)
 
 [4] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with Gabriel Negretto). 2018. *Latin American Politics and Society*, 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
