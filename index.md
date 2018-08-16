@@ -16,7 +16,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio.png" alt="Giancarlo" style="float:left;width:320px;height:450px; margin-right:15px; margin-bottom:15px">
 
-Welcome! I am an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. in Political Science from [Columbia University](https://polisci.columbia.edu/) in 2018. My research interests include political behavior, distributive politics, causal inference, and Latin American politics.
+Welcome! I am an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. in Political Science from [Columbia University](https://polisci.columbia.edu/) in 2018. My research interests include comparative political behavior, distributive politics, causal inference, and Latin American politics.
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, and *Electoral Studies*, among others. 
 
