@@ -21,6 +21,6 @@ title: Fieldwork
 
 ![Caption for the picture.](/img/guayaquil1.jpg)
 
-### San Jose, Costa Rica 
+### San José, Costa Rica 
 
 ![Caption for the picture.](/img/sanjose1.jpg)
