@@ -30,9 +30,11 @@ layout: page
 [10] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
 [[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
 
+[11] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." [[Paper]](/pdfs/Visconti.2018.PMU.pdf) [[Appendix]](/pdfs/Visconti.2018.PMU_appendix.pdf)
+
 ## Work in Progress
 
-[11] "Who is the Distributor? Explaining Variation in Transfers to Local Governments."
+
 
 [12] "How Effective Are Political Solutions to Ethnic Discrimination? Caste and Clean Drinking Water in Rural India" (with Chao-yo Cheng, Ryan Kennedy, and Johannes Urpelainen).
 
