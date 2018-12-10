@@ -40,7 +40,7 @@ layout: page
 
 [13] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
-[14] "Partners against Crime: Can Political Alignment Reduce Crime?" (with Carla Alberti and Diego Díaz-Rioseco).
+[14] "Partners against Crime: Can Political Alignment Reduce Local Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco).
 
 [15] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plebiscite."
 
