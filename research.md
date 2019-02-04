@@ -23,7 +23,7 @@ layout: page
 
 ## Working papers
 
-[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
+[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Ideology_appendix.pdf)
 
 [9] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
 
