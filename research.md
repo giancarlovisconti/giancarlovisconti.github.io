@@ -23,7 +23,7 @@ layout: page
 
 ## Working papers
 
-[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2018.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2018.Chile_ideology_appendix.pdf)
+[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2018.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
 
 [9] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
 
@@ -34,13 +34,10 @@ layout: page
 
 ## Work in Progress
 
-
-
 [12] "How Effective Are Political Solutions to Ethnic Discrimination? Caste and Clean Drinking Water in Rural India" (with Chao-yo Cheng, Ryan Kennedy, and Johannes Urpelainen).
 
 [13] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
 [14] "Partners against Crime: Can Political Alignment Reduce Local Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco).
 
-[15] "The Long-Term Effects of Historical Events: Evidence from the 1988 Chilean Plebiscite."
 
