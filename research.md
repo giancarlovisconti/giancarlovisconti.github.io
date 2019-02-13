@@ -8,7 +8,7 @@ layout: page
 
 [1] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Conditionally accepted. *Political Science Research and Methods*. [[Paper]](/pdfs/Mares and Visconti.2018.Romania.pdf) [[Appendix]](/pdfs/Mares and Visconti.2018.Romania_appendix.pdf)
 
-[2] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." Forthcoming. *British Journal of Political Science*. [[Paper]](/pdfs/Visconti.2018.Crime.pdf) [[Appendix]](/pdfs/Visconti.2018.Crime_appendix.pdf)
+[2] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2018.Crime_appendix.pdf)
 
 [3] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with José R. Zubizarreta). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
