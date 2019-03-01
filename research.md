@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-[1] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Mares and Visconti.2019.Romania.pdf) [[Appendix]](/pdfs/Mares and Visconti.2019.Romania_appendix.pdf)
+[1] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with Isabela Mares). Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/Mares and Visconti.2019.Romania.pdf) [[Appendix]](/pdfs/Mares and Visconti.2019.PSRM_appendix.pdf)
 
 [2] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
