@@ -23,14 +23,14 @@ layout: page
 
 ## Working papers
 
-[8] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
+[8] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." [[Paper]](/pdfs/Visconti.2018.PMU.pdf) [[Appendix]](/pdfs/Visconti.2018.PMU_appendix.pdf)
 
-[9] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2018.Floods.pdf) [[Appendix]](/pdfs/Visconti.2018.Floods_appendix.pdf)
+[9] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
 
-[10] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
+[10] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2019.Floods.pdf) [[Appendix]](/pdfs/Visconti.2019.Floods_appendix.pdf)
+
+[11] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
 [[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
-
-[11] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." [[Paper]](/pdfs/Visconti.2018.PMU.pdf) [[Appendix]](/pdfs/Visconti.2018.PMU_appendix.pdf)
 
 ## Work in Progress
 
