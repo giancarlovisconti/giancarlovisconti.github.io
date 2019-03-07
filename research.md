@@ -29,15 +29,18 @@ layout: page
 
 [10] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2019.Floods.pdf) [[Appendix]](/pdfs/Visconti.2019.Floods_appendix.pdf)
 
-[11] "Self-Interested Citizens: How Disaster Victims Modify their Political Priorities."
-[[Paper]](/pdfs/Visconti.2018.Priorities.pdf) [[Appendix]](/pdfs/Visconti.2018.Priorities_appendix.pdf)
-
 ## Work in Progress
 
-[12] "How Effective Are Political Solutions to Ethnic Discrimination? Caste and Clean Drinking Water in Rural India" (with Chao-yo Cheng, Ryan Kennedy, and Johannes Urpelainen).
+[11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
-[13] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
+[12] "Partners against Crime: Can Political Alignment Reduce Local Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco).
 
-[14] "Partners against Crime: Can Political Alignment Reduce Local Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco).
+[13] "Do Natural Disasters Make People Prioritize Infrastructure?"
+
+[14] "How Effective Are Political Solutions to Ethnic Discrimination? Caste and Clean Drinking Water in Rural India" (with Chao-yo Cheng, Ryan Kennedy, and Johannes Urpelainen).
+
+
+
+
 
 
