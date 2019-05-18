@@ -27,19 +27,11 @@ layout: page
 
 [9] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
 
-[10] "After the Flood: Natural Disasters and Electoral Choices in Chile."  [[Paper]](/pdfs/Visconti.2019.Floods.pdf) [[Appendix]](/pdfs/Visconti.2019.Floods_appendix.pdf)
+[10] "After the Flood: Natural Disasters and Electoral Choices in Chile." [[Paper]](/pdfs/Visconti.2019.Floods.pdf) [[Appendix]](/pdfs/Visconti.2019.Floods_appendix.pdf)
 
-## Work in Progress
+[11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). [[Paper]](/pdfs/Carreras and Visconti.2019.Crime_LA.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
 
-[11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
-
-[12] "Partners against Crime: Can Political Alignment Reduce Local Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco).
-
-[13] "Do Natural Disasters Make People Prioritize Infrastructure?"
-
-[14] "How Effective Are Political Solutions to Ethnic Discrimination? Caste and Clean Drinking Water in Rural India" (with Chao-yo Cheng, Ryan Kennedy, and Johannes Urpelainen).
-
-
+[12] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump_appendix.pdf)
 
 
 
