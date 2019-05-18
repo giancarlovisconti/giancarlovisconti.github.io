@@ -31,8 +31,4 @@ layout: page
 
 [11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). [[Paper]](/pdfs/Carreras and Visconti.2019.Crime_LA.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
 
-[12] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump_appendix.pdf)
-
-
-
-
+[12] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
