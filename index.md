@@ -22,4 +22,6 @@ My research has been published, or is forthcoming, in the *British Journal of Po
 
 **Email**: gviscont[AT]purdue[DOT]edu.
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
+
 
