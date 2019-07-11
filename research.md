@@ -27,8 +27,6 @@ layout: page
 
 [9] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
 
-[10] "After the Flood: Natural Disasters and Electoral Choices in Chile." [[Paper]](/pdfs/Visconti.2019.Floods.pdf) [[Appendix]](/pdfs/Visconti.2019.Floods_appendix.pdf)
+[10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). [[Paper]](/pdfs/Carreras and Visconti.2019.Crime_LA.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
 
-[11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). [[Paper]](/pdfs/Carreras and Visconti.2019.Crime_LA.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
-
-[12] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
+[11] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
