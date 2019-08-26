@@ -23,10 +23,12 @@ layout: page
 
 ## Working papers
 
-[8] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." [[Paper]](/pdfs/Visconti.2018.PMU.pdf) [[Appendix]](/pdfs/Visconti.2018.PMU_appendix.pdf)
+[8] "Combining a Natural and Conjoint Experiment to Learn about Citizens' Post-disaster Electoral Choices." 
 
-[9] "Re-evaluating the Role of Ideology in Chile." [[Paper]](/pdfs/Visconti.2019.Chile_ideology.pdf) [[Appendix]](/pdfs/Visconti.2019.Chile_ideology_appendix.pdf)
+[8] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
 
-[10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). [[Paper]](/pdfs/Carreras and Visconti.2019.Crime_LA.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
+[9] "Re-evaluating the Role of Ideology in Chile." 
 
-[11] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). [[Paper]](/pdfs/Carreras, Visconti, and Acacio.2019.Trump.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2019.Crime_LA_appendix.pdf)
+[10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras). 
+
+[11] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Acácio). 
