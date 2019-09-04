@@ -24,21 +24,21 @@ layout: page
 ## Working papers
 
 
-"Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco). 
+[8] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with Carla Alberti and Diego Díaz-Rioseco). 
 	
-"Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
+[9] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with Miguel Carreras).
 
-"Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with Kayla Young).
+[10] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with Kayla Young).
 
-"The Effect of Electing Women on Local Politics: Evidence from Chile" (with Carla Alberti and Diego Díaz-Rioseco). 
+[11] "The Effect of Electing Women on Local Politics: Evidence from Chile" (with Carla Alberti and Diego Díaz-Rioseco). 
 
-"The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Icácio).
+[12] "The Trump Election and Anti-American Attitudes in Latin America" (with Miguel Carreras and Igor Icácio).
 	
-"Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
+[13] "Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
 
-"Combining a Natural and Conjoint Experiment to Learn about Citizens' Post-Disaster Electoral Choices." 
+[14] "Combining a Natural and Conjoint Experiment to Learn about Citizens' Post-Disaster Electoral Choices." 
 
-"Re-evaluating the Role of Ideology in Chile." 
+[15] "Re-evaluating the Role of Ideology in Chile." 
 
-``Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
+[16] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
 
