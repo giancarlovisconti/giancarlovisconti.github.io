@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-You can find my CV [here](/pdfs/cv_august2019.pdf){:target="_blank"} (updated August 2019).
+You can find my CV [here](/pdfs/cv_october2019.pdf){:target="_blank"} (updated October 2019).

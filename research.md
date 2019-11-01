@@ -32,12 +32,14 @@ layout: page
 [11] "The Effect of Electing Women on Local Politics: Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
 
 [12] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
+
+[13] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 	
-[13] "Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
+[14] "Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
 
-[14] "Combining a Natural and Conjoint Experiment to Learn about Citizens' Post-Disaster Electoral Choices." 
+[15] "Combining a Natural and Conjoint Experiment to Learn about Citizens' Post-Disaster Electoral Choices." 
 
-[15] "Re-evaluating the Role of Ideology in Chile." 
+[16] "Re-evaluating the Role of Ideology in Chile." 
 
 [16] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
 
