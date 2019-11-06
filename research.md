@@ -33,7 +33,7 @@ layout: page
 
 [12] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
 
-[13] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[13] "Constructing Generalizable Local Geographic Natural Experiments" (with [Owura Kuffuor](https://cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 	
 [14] "Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
 
