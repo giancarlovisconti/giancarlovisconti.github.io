@@ -8,9 +8,9 @@ layout: page
 
 [1] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
 
-[2] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2019. *Political Science Research and Methods*, 1-14. [[Paper]](/pdfs/Mares and Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2019.PSRM_appendix.pdf)
+[2] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
-[3] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
+[3] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2019. *Political Science Research and Methods*, 1-14. [[Paper]](/pdfs/Mares and Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2019.PSRM_appendix.pdf)
 
 [4] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
@@ -41,7 +41,7 @@ layout: page
 
 [16] "Re-evaluating the Role of Ideology in Chile." 
 
-[16] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
+[17] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
 
-[17] "Race Over Nation: Immigration Shocks, Racial Discrimination, and Crime Perceptions" (with [Fernando Severino](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=sever564))."
+[18] "Race Over Nation: Immigration Shocks, Racial Discrimination, and Crime Perceptions" (with [Fernando Severino](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=sever564)).
 
