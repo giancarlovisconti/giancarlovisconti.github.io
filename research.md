@@ -6,11 +6,11 @@ layout: page
 
 ## Publications
 
-[1] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
+[1] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
 [2] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
-[3] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2019. *Political Science Research and Methods*, 1-14. [[Paper]](/pdfs/Mares and Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2019.PSRM_appendix.pdf)
+[3] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
 
 [4] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
@@ -23,11 +23,11 @@ layout: page
 
 ## Working papers
 
-[8] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
-	
-[9] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
+[8] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). [[Paper]](/pdfs/Visconti and Young.2020.Climate change and disasters.pdf) [[Appendix]](/pdfs/Visconti and Young.2020.Climate change and disasters_appendix.pdf) 
 
-[10] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[9] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
+	
+[10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
 
 [11] "The Effect of Electing Women on Local Politics: Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
 
