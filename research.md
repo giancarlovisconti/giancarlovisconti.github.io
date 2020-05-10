@@ -14,6 +14,8 @@ layout: page
 
 [4] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
+*Cochran award* for best paper published in Observational Studies between 2015 and 2019.
+
 [5] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](http://www.cienciapolitica.uc.cl/profesores/planta-academica/negretto-gabriel)). 2018. *Latin American Politics and Society*, 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
 [6] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies*, 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
