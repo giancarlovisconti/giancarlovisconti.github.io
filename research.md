@@ -31,19 +31,10 @@ layout: page
 	
 [10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
 
-[11] "The Effect of Electing Women on Local Politics: Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
+[11] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
 
-[12] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
+[12] "Ideological Preferences after Natural Disasters: Evidence from Chile." 
 
-[13] "Constructing Generalizable Local Geographic Natural Experiments" (with [Owura Kuffuor](https://cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
-	
-[14] "Myopic Citizens, Provision of Private and Public Goods, and Natural Catastrophes." 
+[13] "Re-evaluating the Role of Ideology in Chile." 
 
-[15] "Ideological Preferences after Natural Disasters: Evidence from Chile." 
-
-[16] "Re-evaluating the Role of Ideology in Chile." 
-
-[17] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
-
-[18] "Race Over Nation: Immigration Shocks, Racial Discrimination, and Crime Perceptions" (with [Fernando Severino](https://myaccount.umn.edu/lookup?SET_INSTITUTION=&UID=sever564)).
-
+[14] "Who is the Distributor? Explaining Variation in Transfers to Local Governments." 
