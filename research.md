@@ -27,13 +27,13 @@ layout: page
 
 [8] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). [[Paper]](/pdfs/Visconti and Young.2020.Climate change and disasters.pdf) [[Appendix]](/pdfs/Visconti and Young.2020.Climate change and disasters_appendix.pdf) 
 
-[9] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
+[9] "Ideological Preferences after Natural Disasters: Evidence from Chile." [[Paper]](/pdfs/Visconti.2020.Floods.pdf) [[Appendix]](/pdfs/Visconti.2020.Floods_appendix.pdf) 
+
+[10] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
 	
-[10] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
+[11] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
 
-[11] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
-
-[12] "Ideological Preferences after Natural Disasters: Evidence from Chile." 
+[12] "The Trump Election and Anti-American Attitudes in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)).
 
 [13] "Re-evaluating the Role of Ideology in Chile." 
 
