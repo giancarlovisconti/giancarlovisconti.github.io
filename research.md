@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-[1] Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla)and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
+[1] Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
 [2] "Re-evaluating the Role of Ideology in Chile." Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2020.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2020.LAPS_appendix.pdf)
 
