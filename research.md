@@ -35,6 +35,6 @@ layout: page
 
 [12] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
 
-[13] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). [[Paper]](/pdfs/Visconti and Young.2020.Climate change and disasters.pdf) [[Appendix]](/pdfs/Visconti and Young.2020.Climate change and disasters_appendix.pdf) 
+[13] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 
 [14] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
