@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-[1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)). Forthcoming. \textit{Public Opinion Quarterly}.[[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
+[1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)). Forthcoming. *Public Opinion Quarterly*.[[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
 [2] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
