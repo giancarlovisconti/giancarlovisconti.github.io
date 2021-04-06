@@ -20,7 +20,7 @@ Welcome! I am an Assistant Professor of Political Science at [Purdue University]
 
 I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. My research interests include comparative political behavior, distributive politics, causal inference, and Latin American politics.
 
-My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, and *Electoral Studies*, among others. 
+My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, and *Electoral Studies*, among others. 
 
 **Email**: gviscont[AT]purdue[DOT]edu.
 
