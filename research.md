@@ -6,13 +6,13 @@ layout: page
 
 ## Publications
 
-[1] "Do Disasters Affect Policy Priorities? Evidence from the 2010 Chilean Earthquake." Forthcoming. *Journal of Elections, Public Opinion, and Parties*. [[Paper]](/pdfs/Visconti.2021.JEPOP.pdf) [[Appendix]](/pdfs/Visconti.2021.JEPOP_appendix.pdf) 
+[1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)). Forthcoming. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
-[2] "The Trump Election and Attitudes toward the United States in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)). Forthcoming. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
+[2] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
-[3] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
+[3] "Re-evaluating the Role of Ideology in Chile." Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2020.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2020.LAPS_appendix.pdf)
 
-[4] "Re-evaluating the Role of Ideology in Chile." Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2020.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2020.LAPS_appendix.pdf)
+[4] "Do Disasters Affect Policy Priorities? Evidence from the 2010 Chilean Earthquake." 2021. *Journal of Elections, Public Opinion, and Parties*. [[Paper]](/pdfs/Visconti.2021.JEPOP.pdf) [[Appendix]](/pdfs/Visconti.2021.JEPOP_appendix.pdf) 
 
 [5] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
@@ -33,10 +33,12 @@ layout: page
 
 ## Working papers
 
-[12] "Ideological Preferences after Natural Disasters: Evidence from Chile." [[Paper]](/pdfs/Visconti.2020.Floods.pdf) [[Appendix]](/pdfs/Visconti.2020.Floods_appendix.pdf) 
+[12] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino). [[Paper]](/pdfs/Severino and Visconti.2021.Immigration_crime.pdf) [[Appendix]](/pdfs/Severino and Visconti.2021.Immigration_crime_appendix.pdf) 
 
-[13] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
+[13] "Ideological Preferences after Natural Disasters: Evidence from Chile." [[Paper]](/pdfs/Visconti.2020.Floods.pdf) [[Appendix]](/pdfs/Visconti.2020.Floods_appendix.pdf) 
 
-[14] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[14] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 
 
-[15] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
+[15] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+
+[16] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
