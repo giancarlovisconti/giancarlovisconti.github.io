@@ -12,7 +12,7 @@ layout: page
 
 [3] A Tale of Two Pandemics: Economic Inequality and Support for Containment Measures in Peru (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Journal of Politics In Latin America*. [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.JPLA.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.JPLA_appendix.pdf) 
 
-[4] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
+[4] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 2021. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
 [5] "Do Disasters Affect Policy Priorities? Evidence from the 2010 Chilean Earthquake." 2021. *Journal of Elections, Public Opinion, and Parties*. [[Paper]](/pdfs/Visconti.2021.JEPOP.pdf) [[Appendix]](/pdfs/Visconti.2021.JEPOP_appendix.pdf) 
 
