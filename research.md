@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-[1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio)). Forthcoming. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
+[1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). Forthcoming. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
 [2] Who Does the Caring?  Gender Disparities in COVID-19 Attitudes and Behaviors (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Politics & Gender*. [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.P&G.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.P&G_appendix.pdf) 
 
@@ -16,7 +16,7 @@ layout: page
 
 [5] "Do Disasters Affect Policy Priorities? Evidence from the 2010 Chilean Earthquake." 2021. *Journal of Elections, Public Opinion, and Parties*. [[Paper]](/pdfs/Visconti.2021.JEPOP.pdf) [[Appendix]](/pdfs/Visconti.2021.JEPOP_appendix.pdf) 
 
-[6] "Re-evaluating the Role of Ideology in Chile." Forthcoming. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2020.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2020.LAPS_appendix.pdf)
+[6] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2020.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2020.LAPS_appendix.pdf)
 
 [7] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html). 2021. *Revista Latinoamericana de Opinión Pública.* 10(1): 79 - 103.
 
