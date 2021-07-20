@@ -39,7 +39,7 @@ layout: page
 
 ## Working papers
 
-[15] "Ideological Preferences after Natural Disasters: Evidence from Chile." *Revise and Resubmit.*  [[Paper]](/pdfs/Visconti.2020.Floods.pdf) [[Appendix]](/pdfs/Visconti.2020.Floods_appendix.pdf) 
+[15] "Ideological Preferences after Natural Disasters: Evidence from Chile." *Revise and Resubmit.*  
 
 [16] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). *Revise and Resubmit.* 
 
