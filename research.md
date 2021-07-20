@@ -39,12 +39,12 @@ layout: page
 
 ## Working papers
 
-[15] "Ideological Preferences after Natural Disasters: Evidence from Chile." *Revise and Resubmit.*  
+[15] "Ideological Preferences after Natural Disasters: Evidence from Chile." *Revise and Resubmit*.  
 
-[16] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). *Revise and Resubmit.* 
+[16] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). *Revise and Resubmit*. 
 
 [17] "Does Issue Framing Shape Support for Covid-19 Lockdown Measures? Evidence from a Survey Experiment in
-Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). *Revise and Resubmit.* 
+Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). *Revise and Resubmit*. 
 
 [18] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)). [[Paper]](/pdfs/Severino and Visconti.2021.Immigration_crime.pdf) [[Appendix]](/pdfs/Severino and Visconti.2021.Immigration_crime_appendix.pdf) 
 
