@@ -18,11 +18,11 @@ layout: page
 
 [6] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2021.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2021.LAPS_appendix.pdf)
 
-[7] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública.* 10(1): 79 - 103.
+[7] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública.* 10(1), 79-103. [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
 
 [8] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
-[9] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2019. *British Journal of Political Science*, 1-15. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
+[9] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2020. *British Journal of Political Science*, 50(4), 1481-1495. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
 [10] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
 
