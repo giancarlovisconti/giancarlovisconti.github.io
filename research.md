@@ -4,7 +4,8 @@ output: pdf_document
 layout: page
 ---
 
-## Publications (updated August 2021)
+## Publications 
+(updated August 2021)
 
 [1] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). Forthcoming. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
