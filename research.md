@@ -40,7 +40,7 @@ layout: page
 
 ## Working papers
 
-[15] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)). Revise and Resubmit, *American Political Science Review*.  
+[15] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)). Revise and Resubmit, *American Political Science Review*. [[Abstract]](/pdfs/Severino and Visconti.2021.Abstract.pdf)
 
 [16] "Ideological Preferences after Natural Disasters: Evidence from Chile." Revise and Resubmit, *Political Behavior*.  
 
