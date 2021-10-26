@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Publications 
-(updated September 2021)
+(updated October 2021)
 
 [1] "Does Issue Framing Shape Support for Covid-19 Lockdown Measures? Evidence from a Survey Experiment in
 Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcomimg. *Research & Politics*. [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.R&P_appendix.pdf)  
