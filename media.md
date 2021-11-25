@@ -10,7 +10,7 @@ layout: page
 
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
 
-[Reevaluando la tesis del desplome](https://www.ciperchile.cl/2021/05/22/reevaluando-la-tesis-del-desplome/). *Ciper Academico*, May 22, 2021.
+[Reevaluando la tesis del desplome](https://www.ciperchile.cl/2021/05/22/reevaluando-la-tesis-del-desplome/). *Ciper Académico*, May 22, 2021.
 
 
 
