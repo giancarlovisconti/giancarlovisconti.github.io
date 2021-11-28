@@ -4,6 +4,8 @@ output: pdf_document
 layout: page
 ---
 
+[Entendiendo al votante de Boric](https://terceradosis.cl/2021/11/26/entendiendo-al-votante-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 26, 2021.
+
 [Entendiendo al votante de Parisi](https://terceradosis.cl/2021/11/24/entendiendo-al-votante-de-parisi/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 24, 2021.
 
 [Entendiendo al votante de Kast](https://terceradosis.cl/2021/11/23/entendiendo-al-votante-de-kast/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 23, 2021.
