@@ -22,6 +22,8 @@ layout: page
 
 # Media coverage
 
+[Cientista político desmitifica fortaleza de Kast en comunas pobres](https://www.theclinic.cl/2021/11/30/kast-triunfo-comunas-pobres-elecciones/). *The Clinic*, November 30, 2021.
+
 [Municipalidades con sello de mujer: menor burocracia y más equidad de género](https://www.df.cl/noticias/site/artic/20210618/pags/20210618181141.html). *Diario Financiero*, June 22, 2021.
 
 [Municipios alineados con coaliciones de gobierno reciben más recursos para prevenir delitos](https://gobierno.uc.cl/es/noticias-y-eventos/prensa/1154-municipios-alineados-con-coaliciones-de-gobierno-reciben-mas-recursos-para-prevenir-delitos). *El Mercurio*, August 26, 2019.
