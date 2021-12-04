@@ -6,6 +6,8 @@ layout: page
 
 # Op-eds
 
+[¿Es Kast el candidato de los “sectores populares”?](https://terceradosis.cl/2021/12/03/es-kast-el-candidato-de-los-sectores-populares/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 3, 2021.
+
 [Entendiendo al votante de Boric](https://terceradosis.cl/2021/11/26/entendiendo-al-votante-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 26, 2021.
 
 [Entendiendo al votante de Parisi](https://terceradosis.cl/2021/11/24/entendiendo-al-votante-de-parisi/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 24, 2021.
