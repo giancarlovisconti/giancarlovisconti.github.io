@@ -26,7 +26,7 @@ layout: page
 
 [Elecciones en Chile: cómo son los votantes que van a definir la segunda vuelta](https://www.pagina12.com.ar/390250-elecciones-en-chile-como-son-los-votantes-que-van-a-definir-). *Pagina 12*, December 18, 2021.
 
-[Pobreza, votantes y segunda vuelta](https://www.elmostrador.cl/noticias/opinion/2021/12/14/pobreza-votantes-y-segunda-vuelta/) *El Mostrador*, December 14, 2021.
+[Pobreza, votantes y segunda vuelta](https://www.elmostrador.cl/noticias/opinion/2021/12/14/pobreza-votantes-y-segunda-vuelta/). *El Mostrador*, December 14, 2021.
 
 [Cientista político desmitifica fortaleza de Kast en comunas pobres](https://www.theclinic.cl/2021/11/30/kast-triunfo-comunas-pobres-elecciones/). *The Clinic*, November 30, 2021.
 
