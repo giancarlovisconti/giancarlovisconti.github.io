@@ -30,7 +30,9 @@ layout: page
 
 [Cientista político desmitifica fortaleza de Kast en comunas pobres](https://www.theclinic.cl/2021/11/30/kast-triunfo-comunas-pobres-elecciones/). *The Clinic*, November 30, 2021.
 
-[¿Cuál democracia?](https://www.eldesconcierto.cl/opinion/2021/06/12/cual-democracia.html). *El Desconcierto*, July 12, 2021.
+[¿Cuál democracia?](https://www.eldesconcierto.cl/opinion/2021/06/12/cual-democracia.html). *El Desconcierto*, June 12, 2021.
+
+[Senador Guido Girardi: «El PC es quien mejor ha logrado capitalizar la rabia, canaliza el sentimiento de frustración e irritación»](https://www.eldesconcierto.cl/reportajes/2021/06/02/senador-guido-girardi-el-pc-es-quien-mejor-ha-logrado-capitalizar-la-rabia-canaliza-el-sentimiento-de-frustracion-e-irritacion.html). *El Desconcierto*, June 2, 2021.
 
 [Municipalidades con sello de mujer: menor burocracia y más equidad de género](https://www.df.cl/noticias/site/artic/20210618/pags/20210618181141.html). *Diario Financiero*, June 22, 2021.
 
