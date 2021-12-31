@@ -26,6 +26,8 @@ layout: page
 
 # Media coverage
 
+[Mujeres a las urnas](https://www.factorcritico.cl/fc-blog/2021/12/23/mujeres-a-las-urnas). *La Segunda*, December 23, 2021.
+
 [Elecciones en Chile: cómo son los votantes que van a definir la segunda vuelta](https://www.pagina12.com.ar/390250-elecciones-en-chile-como-son-los-votantes-que-van-a-definir-). *Pagina 12*, December 18, 2021.
 
 [Pobreza, votantes y segunda vuelta](https://www.elmostrador.cl/noticias/opinion/2021/12/14/pobreza-votantes-y-segunda-vuelta/). *El Mostrador*, December 14, 2021.
