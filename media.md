@@ -22,7 +22,7 @@ layout: page
 
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
 
-Interviews on the US 2020 elections: [Megavision](https://www.youtube.com/watch?v=IhKzlstqxCs&list=LL&index=2&t=62s), [CNN Chile](https://www.cnnchile.com/mundo/5-muertos-fallecio-policia-herido-capitolio_20210108/), and [Radio Infinita](https://twitter.com/InfinitaFM/status/1324671451543310336). 
+Interviews on the US 2020 election: [Megavision](https://www.youtube.com/watch?v=IhKzlstqxCs&list=LL&index=2&t=62s), [CNN Chile](https://www.cnnchile.com/mundo/5-muertos-fallecio-policia-herido-capitolio_20210108/), and [Radio Infinita](https://twitter.com/InfinitaFM/status/1324671451543310336). 
 
 [Es otro país, el Chile de ahora es totalmente distinto al de 1973](https://www.eltelegrafo.com.ec/noticias/informacion/1/es-otro-pais-el-chile-de-ahora-es-totalmente-distinto-al-de-1973-galeria). *El Telegrafo*, September 11, 2014.
 
