@@ -20,6 +20,8 @@ layout: page
 
 # Interviews
 
+[La política de la identidad seguir dominando la discusión”](/media/lasegunda.pdf)). *La Segunda*, January 21, 2022.
+
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
 
 Interviews on the US 2020 election: [CNN Chile](https://www.cnnchile.com/mundo/5-muertos-fallecio-policia-herido-capitolio_20210108/), [Mega](https://www.youtube.com/watch?v=IhKzlstqxCs&list=LL&index=2&t=62s), and [Radio Infinita](https://twitter.com/InfinitaFM/status/1324671451543310336). 
