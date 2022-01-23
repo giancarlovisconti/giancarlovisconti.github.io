@@ -20,7 +20,7 @@ layout: page
 
 # Interviews
 
-[La política de la identidad seguira dominando la discusión](/media/lasegunda.pdf). *La Segunda*, January 21, 2022.
+[La política de la identidad seguira dominando la discusión](/media/lasegunda2022.pdf). *La Segunda*, January 21, 2022.
 
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
 
