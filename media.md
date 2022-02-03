@@ -30,9 +30,13 @@ Interviews on the US 2020 election: [CNN Chile](https://www.cnnchile.com/mundo/5
 
 # Media coverage
 
+[El dilema de la centroderecha: renovarse o desaparecer](https://www.elmostrador.cl/destacado/2022/02/02/el-dilema-de-la-centroderecha-renovarse-o-desaparecer/). *El Mostrador*, February 2, 2022.
+
 [Mujeres a las urnas](https://www.factorcritico.cl/fc-blog/2021/12/23/mujeres-a-las-urnas). *La Segunda*, December 23, 2021.
 
 [Elecciones en Chile: cómo son los votantes que van a definir la segunda vuelta](https://www.pagina12.com.ar/390250-elecciones-en-chile-como-son-los-votantes-que-van-a-definir-). *Pagina 12*, December 18, 2021.
+
+[De la “primera línea” al Partido de la Gente: Elecciones Presidenciales 2021 y ciclo político en Chile](https://lavozdelosquesobran.cl/de-la-primera-linea-al-partido-de-la-gente-elecciones-presidenciales-2021-y-ciclo-politico-en-chile/16122021). *La voz de los que sobran*, December 16, 2021.
 
 [Pobreza, votantes y segunda vuelta](https://www.elmostrador.cl/noticias/opinion/2021/12/14/pobreza-votantes-y-segunda-vuelta/). *El Mostrador*, December 14, 2021.
 
