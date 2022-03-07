@@ -6,7 +6,7 @@ layout: page
 
 ## Publications 
 
-[1] "Partners Against Crime: Can Political Alignment Reduce Criminal Activities?" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Conditionally accepted, *Political Science Research and Methods*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.PSRM.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.PSRM_appendix.pdf)   
+[1] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Conditionally accepted, *Political Science Research and Methods*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.PSRM.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.PSRM_appendix.pdf)   
 
 [2] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
