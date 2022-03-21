@@ -48,7 +48,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [18] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)). Revise and Resubmit, *American Political Science Review*. [[Abstract]](/pdfs/Severino and Visconti.2021.Abstract.pdf)
 
-[19] Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise
+[19] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise
 and Resubmit, *Research & Politics*. [[Abstract]](/pdfs/Kuffuor, Visconti and Young.2022.Abstract.pdf)
 
 [20] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
