@@ -56,7 +56,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [21] "Citizens' Evaluations of Bureaucratic Corruption" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). EGAP registry, data collection completed.
 
-[22] "Evaluating the Impact of Non-institutional Factors on Voting for Independent Candidates" (with [Pablo Argote](https://pabloargote.github.io/)). OSF registry, data collection completed.
+[22] "Evaluating the Impact of Non-institutional Factors on Voting for Independent Candidates" (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). OSF registry, data collection completed.
 
-[23] "Ideological vs. Issue Voting: Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/)). OSF registry, data collection completed.
+[23] "Ideological vs. Issue Voting: Evidence from Chile" (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). OSF registry, data collection completed.
 
