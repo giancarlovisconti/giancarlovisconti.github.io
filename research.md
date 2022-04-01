@@ -46,11 +46,17 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[18] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)). Revise and Resubmit, *American Political Science Review*. [[Abstract]](/pdfs/Severino and Visconti.2021.Abstract.pdf)
+[17] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). R&R.
 
-[19] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise
-and Resubmit, *Research & Politics*. [[Abstract]](/pdfs/Kuffuor, Visconti and Young.2022.Abstract.pdf)
+[18] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). R&R.
 
-[20] "Do Natural Disasters Change People’s Perceptions and Preferences about Climate Change?" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[19] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)).
 
-[21] "Who Pays for Crime? Criminal Violence and Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)).
+[20] "Do Natural Disasters Change People's Perceptions and Preferences about Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+
+[21] "Citizens' Evaluations of Bureaucratic Corruption" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). EGAP registry, data collection completed.
+
+[22] "Evaluating the Impact of Non-institutional Factors on Voting for Independent Candidates" (with [Pablo Argote](https://pabloargote.github.io/)). OSF registry, data collection completed.
+
+[23] "Ideological vs. Issue Voting: Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/)). OSF registry, data collection completed.
+
