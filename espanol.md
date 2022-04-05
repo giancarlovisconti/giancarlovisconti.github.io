@@ -6,7 +6,7 @@ layout: page
 
 ¡Bienvenido/a! Soy profesor asistente en ciencia política en la [Universidad de Purdue](https://www.cla.purdue.edu/polsci/). Completé mi doctorado en la [Universidad de Columbia](https://polisci.columbia.edu/) en 2018.
 
-Mi investigación se focaliza en el comportamiento político comparado y la economía política de los paises en vias de desarrollo, principalmente en América Latin. Mis intereses incluyes temas como elecciones, crimen, shocks económicos, migración, y politica local 
+Mi investigación se focaliza en el comportamiento político comparado y la economía política de los paises en vias de desarrollo, principalmente en América Latin. Además, la mayoría de mi trabajo se basa en el uso de métodos para establecer efectos causales usando datos experimentales y observacionales. 
 
 Mi investigación ha sido publicada, o esta por aparecer, en *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, y *Electoral Studies*, entre otras revistas.
 
