@@ -18,7 +18,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 Welcome! I am an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/) and a Core Faculty in the Advanced Methods Cluster [(AMAP)](https://www.purdue.edu/amap/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. 
 
-I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My research interests include elections, crime, economic shocks, migration, and local politics. My work relies on a variety of methods for drawing causal inferences from experimental and observational data. 
+I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My work relies on a variety of methods for drawing causal inferences from experimental and observational data. 
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, and *Electoral Studies*, among other outlets.
 
