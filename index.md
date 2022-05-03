@@ -14,7 +14,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
-<img src="/img/bio2.png" alt="Giancarlo" style="float:left;width:417px;height:572px; margin-right:15px; margin-bottom:15px">
+<img src="/img/bio2.png" alt="Giancarlo" style="float:left;width:312px;height:428px; margin-right:15px; margin-bottom:15px">
 
 Welcome! I am an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/) and a Core Faculty in the Advanced Methods Cluster [(AMAP)](https://www.purdue.edu/amap/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. 
 
