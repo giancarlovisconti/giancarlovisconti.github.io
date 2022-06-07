@@ -8,7 +8,7 @@ layout: page
 
 [1] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." Conditionally accepted, *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
-[2] Constructing Generalizable Geographic Natural Experiments" (with Owura Kuffuor and Kayla Young). Forthcoming. *Research & Politics*. [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)   
+[2] Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://www.cla.purdue.edu/directory/profiles/kayla-young.html)). Forthcoming. *Research & Politics*. [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)   
 
 [3] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming, *Political Science Research and Methods*. [[Paper]](/pdfs/ADV.2022.Crime.pdf) [[Appendix]](/pdfs/ADV.2022.Crime_appendix.pdf)   
 
@@ -28,6 +28,8 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 [10] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2021.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2021.LAPS_appendix.pdf)
 
 [11] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública.* 10(1), 79-103. [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
+
+##### &nbsp; María Braun award for the best paper published in RLOP in 2021.
 
 [12] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
