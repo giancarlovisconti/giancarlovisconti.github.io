@@ -16,14 +16,14 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio2.png" alt="Giancarlo" style="float:left;width:292px;height:402px; margin-right:15px; margin-bottom:15px">
 
-Welcome! I am an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/).
-Starting in Fall 2022, I will be an Assistant Professor of Political Science at [Penn State](https://polisci.la.psu.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed by undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+Welcome! I am an Assistant Professor of Political Science at [Penn State](https://polisci.la.psu.edu/).
+Previously, I was Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed by undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My work relies on a variety of methods for drawing causal inferences from experimental and observational data. 
 
 My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, and *Electoral Studies*, among other outlets.
 
-You can reach me (in English or Spanish) at: gviscont[AT]purdue[DOT]edu.
+You can reach me (in English or Spanish) at: gvisconti[AT]psu[DOT]edu.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
 
