@@ -17,7 +17,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 <img src="/img/bio2.png" alt="Giancarlo" style="float:left;width:292px;height:402px; margin-right:15px; margin-bottom:15px">
 
 Welcome! I am an Assistant Professor of Political Science at [Penn State University](https://polisci.la.psu.edu/).
-Previously, I was an Assistant Professor of Political Science at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed by undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+Previously, I was an Assistant Professor at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed by undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My work relies on a variety of methods for drawing causal inferences from experimental and observational data. 
 
