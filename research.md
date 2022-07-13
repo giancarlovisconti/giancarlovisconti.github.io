@@ -6,7 +6,7 @@ layout: page
 
 ## Publications 
 
-[1] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." Conditionally accepted, *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
+[1] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." Forthcoming. *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
 [2] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://www.cla.purdue.edu/directory/profiles/kayla-young.html)). Forthcoming. *Research & Politics*. [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)   
 
