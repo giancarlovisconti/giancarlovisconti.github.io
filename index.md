@@ -21,7 +21,7 @@ Previously, I was an Assistant Professor at [Purdue University](https://www.cla.
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My work relies on a variety of methods for drawing causal inferences from experimental and observational data. 
 
-My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, and *Electoral Studies*, among other outlets.
+My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
 
 You can reach me (in English or Spanish) at: gvisconti[AT]psu[DOT]edu.
 
