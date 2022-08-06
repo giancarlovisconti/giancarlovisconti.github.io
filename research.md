@@ -6,7 +6,7 @@ layout: page
 
 ## Publications 
 
-[1] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." Forthcoming. *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
+[1] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
 [2] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). Forthcoming. *Political Science Research and Methods*. [[Paper]](/pdfs/ADV.2022.Crime.pdf) [[Appendix]](/pdfs/ADV.2022.Crime_appendix.pdf)   
 
