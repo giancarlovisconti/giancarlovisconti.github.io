@@ -52,11 +52,13 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[20] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://www.csudh.edu/communications/faculty/fernando-severino)).
+[20] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*.
 
 [21] "Do Natural Disasters Change People's Perceptions and Preferences about Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 
-[22] "Citizens' Evaluations of Bureaucratic Corruption" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). EGAP registry, data collection completed.
+[22] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 
 
-[23] "Evaluating the Impact of Non-institutional Factors on Voting for Independent Candidates" (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). OSF registry, data collection completed.
+[23] “Populist Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)).
+
+[24] “Demographic Changes and the Roots of Nationalism” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
 
