@@ -60,5 +60,3 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [23] "Evaluating the Impact of Non-institutional Factors on Voting for Independent Candidates" (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). OSF registry, data collection completed.
 
-[24] "Ideological vs. Issue Voting: Evidence from Chile" (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). OSF registry, data collection completed.
-
