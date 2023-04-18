@@ -12,10 +12,9 @@ layout: page
 
 [3] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2020. *British Journal of Political Science*, 50(4), 1481-1495. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
-## Political Behavior
+## Political Behavior and Attitudes 
 
 [4] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior*. [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
-
 
 [5] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly*. [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
@@ -36,19 +35,19 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [12] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
-[13] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
-
-[14] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies*, 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
+[13] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies*, 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
 
 ## Methods
 
-[15] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://www.cla.purdue.edu/directory/profiles/kayla-young.html)). 2022. *Research & Politics*. [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
+[14] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://www.cla.purdue.edu/directory/profiles/kayla-young.html)). 2022. *Research & Politics*. [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
 
-[16] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
+[15] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
+
+[16] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
 
 ##### &nbsp; Cochran award for best paper published in Observational Studies between 2015 and 2019.
 
-## Latin American Politics
+## Political Institutions
 
 [17] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 2021. *Governance*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
