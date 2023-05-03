@@ -3,6 +3,16 @@ layout: page
 title: Fieldwork
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0J6S13EH3M');
+</script>
+
 ### Paipote, Atacama Region, Chile
 
 ![Caption for the picture.](/img/paipote1.png) 
