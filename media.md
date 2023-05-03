@@ -4,16 +4,6 @@ output: pdf_document
 layout: page
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0J6S13EH3M');
-</script>
-
 # Op-eds
 
 [¿Quiénes son y qué piensan los nuevos votantes de Boric?](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 22, 2021.

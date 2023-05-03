@@ -2,16 +2,6 @@
 layout: page
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0J6S13EH3M');
-</script>
-
 <img src="/img/bio2.png" alt="Giancarlo" style="float:left;width:292px;height:402px; margin-right:15px; margin-bottom:15px">
 
 ¡Bienvenido/a! Soy profesor asistente en ciencia política en [Penn State](https://polisci.la.psu.edu/). Completé mi doctorado en la [Universidad de Columbia](https://polisci.columbia.edu/) en 2018.

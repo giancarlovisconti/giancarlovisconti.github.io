@@ -4,16 +4,6 @@ output: pdf_document
 layout: page
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0J6S13EH3M');
-</script>
-
 [1] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies*. [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
 
 [2] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 2022. *Political Science Research and Methods*. [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.Crime.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.Crime_appendix.pdf)  

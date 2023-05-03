@@ -4,16 +4,6 @@ meta-title: Giancarlo Visconti"
 meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, PSU, Penn State, Pennsylvania State University, Purdue University, Columbia University"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0J6S13EH3M');
-</script>
-
 <head>
   <title> Giancarlo Visconti </title>
   <meta name="author" content="Giancarlo Visconti">
