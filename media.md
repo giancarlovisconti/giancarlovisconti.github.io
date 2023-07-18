@@ -20,6 +20,8 @@ layout: page
 
 # Interviews
 
+[Giancarlo Visconti explicó cómo funciona el otorgamiento de recursos para los Programas de Mejoramiento Urbano](https://www.infinita.cl/entrevistas/2023/07/14/giancarlo-visconti-explico-como-funciona-el-otorgamiento-de-recursos-para-los-programas-de-mejoramiento-urbano.html). *Radio Infinita*, July 14, 2023.
+
 [La política de la identidad seguira dominando la discusión](/media/lasegunda2022.pdf). *La Segunda*, January 21, 2022.
 
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
