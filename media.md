@@ -30,6 +30,10 @@ Interviews on the US 2020 election: [CNN Chile](https://www.cnnchile.com/mundo/5
 
 # Media coverage
 
+[Seguridad Pública y sesgos políticos](/media/lasegunda2023.pdf). *La Segunda*, July 12, 2023.
+
+[Gobiernos favorecen con recursos a municipios oficialistas y sus comunas registran menores tasas de delitos](/media/elmercurio2023.pdf). *El Mercurio*, July 11, 2023.
+
 [El dilema de la centroderecha: renovarse o desaparecer](https://www.elmostrador.cl/destacado/2022/02/02/el-dilema-de-la-centroderecha-renovarse-o-desaparecer/). *El Mostrador*, February 2, 2022.
 
 [Mujeres a las urnas](https://www.factorcritico.cl/fc-blog/2021/12/23/mujeres-a-las-urnas). *La Segunda*, December 23, 2021.
