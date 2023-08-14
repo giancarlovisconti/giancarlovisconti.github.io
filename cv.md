@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-You can find my CV [here](/pdfs/Visconti_cv_january2023.pdf){:target="_blank"} (updated January 2023).
+You can find my CV [here](/pdfs/Visconti_cv_august2023.pdf){:target="_blank"} (updated August 2023).
