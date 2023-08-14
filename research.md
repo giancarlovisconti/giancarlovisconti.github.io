@@ -50,13 +50,13 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[20] "Immigration Shocks and (Mis)Concerns about Crime: Evidence from Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*.
+[20] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*.
 
-[21] "Do Natural Disasters Change People's Perceptions and Preferences about Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[21] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). Revise and Resubmit, *PLOS ONE*.
 
 [22] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 
 
-[23] “Populist Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)).
+[23] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 
-[24] “Demographic Changes and the Roots of Nationalism” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
+[24] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on Attitudes and Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
 
