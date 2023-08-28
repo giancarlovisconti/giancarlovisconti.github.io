@@ -16,7 +16,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
 
-Welcome! I am an Assistant Professor of Political Science at [Pennsylvania State University](https://polisci.la.psu.edu/). Previously, I was an Assistant Professor at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed by undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+Welcome! I am an Assistant Professor of Political Science at [Pennsylvania State University](https://polisci.la.psu.edu/). Previously, I was an Assistant Professor at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My research interests include crime, migration, and voting behavior. My current research explores the political impact of migration in the Southern Cone. My work focuses on using and advancing methods for drawing causal inferences from experimental and observational data.
 
