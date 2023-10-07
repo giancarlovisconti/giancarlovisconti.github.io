@@ -64,5 +64,5 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Book Project
 
-[1] "Ideology without Parties: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 
+[1] "Ideology without Partisanship: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 
 
