@@ -14,6 +14,16 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0J6S13EH3M');
+</script>
+
 <img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
 
 Welcome! I am an Assistant Professor of Political Science at [Pennsylvania State University](https://polisci.la.psu.edu/). Previously, I was an Assistant Professor at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).

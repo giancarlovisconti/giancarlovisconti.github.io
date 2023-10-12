@@ -4,6 +4,16 @@ output: pdf_document
 layout: page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J6S13EH3M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0J6S13EH3M');
+</script>
+
 [1] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). Forthcoming, *PLOS ONE*.
 
 [2] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies*. [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
