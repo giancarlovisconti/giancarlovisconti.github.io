@@ -14,7 +14,7 @@ layout: page
   gtag('config', 'G-0J6S13EH3M');
 </script>
 
-[1] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). Forthcoming, *PLOS ONE*.
+[1] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). 2023. *PLoS ONE*. [[Paper]](/pdfs/Argote and Visconti.2023.PONE.pdf) [[Appendix]](/pdfs/Argote and Visconti.2023.PONE_appendix.pdf) 
 
 [2] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies*. [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
 
