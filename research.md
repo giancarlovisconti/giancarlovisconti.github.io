@@ -62,11 +62,11 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[21] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*.
+[21] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*
 
-[22] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 
+[22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
 
-[23] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)).
+[23] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Revise and Resubmit, *PLOS ONE*.
 
 [24] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on Attitudes and Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
 
