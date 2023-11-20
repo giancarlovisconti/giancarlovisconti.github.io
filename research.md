@@ -70,9 +70,15 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [23] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 
 
-[24] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on Attitudes and Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
+[24] Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment
 
-[25] "Ideological vs. Issue Voting: Evidence from a Conjoint Experiment"  (with [Pablo Argote](https://pabloargote.github.io/)). 
+[25] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
+
+[26] "Ideological vs. Issue Voting: Evidence from a Conjoint Experiment in Chile"  (with [Pablo Argote](https://pabloargote.github.io/)). 
+
+[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)). 
+
+[28] "Unrealistic Comparisons: Why Forced-Choice Conjoint Experiments Fail to Mimic Electoral Decisions" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/)). 
 
 ## Book Project
 
