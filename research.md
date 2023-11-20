@@ -41,25 +41,25 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [12] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society*. [[Paper]](/pdfs/Visconti.2021.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2021.LAPS_appendix.pdf)
 
-[13] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública.* 10(1), 79-103. [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
+[13] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública*. [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
 
 ##### &nbsp; María Braun award for the best paper published in RLOP in 2021.
 
-[14] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*, 8(2), 315-328. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
+[14] "Voting for the Lesser Evil: Evidence from a Conjoint Experiment in Romania" (with [Isabela Mares](https://politicalscience.yale.edu/people/isabela-mares)). 2020. *Political Science Research and Methods*. [[Paper]](/pdfs/Mares and Visconti.2020.PSRM.pdf) [[Appendix]](/pdfs/Mares and Visconti.2020.PSRM_appendix.pdf)
 
-[15] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2020. *British Journal of Political Science*, 50(4), 1481-1495. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
+[15] "Policy Preferences after Crime Victimization: Panel and Survey Evidence from Latin America." 2020. *British Journal of Political Science*. [[Paper]](/pdfs/Visconti.2019.BJPS.pdf) [[Appendix]](/pdfs/Visconti.2019.BJPS_appendix.pdf)
 
-[16] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*, 7(4): 795-813. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
+[16] "Economic Perceptions and Electoral Choices: A Design-Based Approach." 2019. *Political Science Research and Methods*. [[Paper]](/pdfs/Visconti.2019.PSRM.pdf) [[Appendix]](/pdfs/Visconti.2019.PSRM_appendix.pdf)
 
-[17] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*, 4: 217-249. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
+[17] "Handling Limited Overlap in Observational Studies with Cardinality Matching" (with [José R. Zubizarreta](http://jrzubizarreta.com/)). 2018. *Observational Studies*. [[Paper]](/pdfs/Visconti and Zubizarreta.2018.OS.pdf)
 
 ##### &nbsp; Cochran award for best paper published in Observational Studies between 2015 and 2019.
 
-[18] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](http://www.cienciapolitica.uc.cl/profesores/planta-academica/negretto-gabriel)). 2018. *Latin American Politics and Society*, 60(1): 27-51. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
+[18] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](http://www.cienciapolitica.uc.cl/profesores/planta-academica/negretto-gabriel)). 2018. *Latin American Politics and Society*. [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
-[19] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies*, 45: 180-190. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
+[19] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies*. [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
 
-[20] "Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" 2011. *Revista de Ciencia Política*, 31(1): 91-115 [In Spanish]. 
+[20] "Cross-Time Behavior of the Chilean Congress: Growth or Stagnation of its Influence?" 2011. *Revista de Ciencia Política* [In Spanish]. 
 [[Paper]](/pdfs/Visconti.2011.RCP.pdf)
 
 ## Working papers
