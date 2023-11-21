@@ -66,21 +66,21 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [21] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*
 
-[22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise and Resubmit, *PLOS ONE*.
+[22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise and Resubmit, *PLOS ONE*
 
-[23] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 
+[23] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
 
 [24] Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment
 
-[25] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)).
+[25] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html))
 
-[26] "Ideological vs. Issue Voting: Evidence from a Conjoint Experiment in Chile"  (with [Pablo Argote](https://pabloargote.github.io/)). 
+[26] "Ideological vs. Issue Voting: Evidence from a Conjoint Experiment in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
-[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)). 
+[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton))
 
-[28] "Unrealistic Comparisons: Why Forced-Choice Conjoint Experiments Fail to Mimic Electoral Decisions" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/)). 
+[28] "Unrealistic Comparisons: Why Forced-Choice Conjoint Experiments Fail to Mimic Electoral Decisions" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
 
 ## Book Project
 
-[1] "Ideology without Partisanship: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 
+[1] "Ideology without Partisanship: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
