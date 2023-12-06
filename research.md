@@ -68,11 +68,11 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise and Resubmit, *PLOS ONE*
 
-[23] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
+[23] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)) [[Paper]](https://osf.io/preprints/osf/u5grv) [[Appendix]](/pdfs/Visconti and Vega_Mendez.2023.Nationalism_appendix) 
 
-[24] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
+[24] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
 
-[25] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behaviors” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html))
+[25] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
 
 [26] "Ideological vs. Issue Voting: Evidence from a Conjoint Experiment in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
