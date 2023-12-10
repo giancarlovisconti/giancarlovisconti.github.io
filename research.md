@@ -68,7 +68,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise and Resubmit, *PLOS ONE*
 
-[23] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behavior” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)) [[Paper]](Visconti and Vega_Mendez.2023.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega_Mendez.2023.Nationalism_appendix.pdf) 
+[23] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behavior” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)) [[Paper]](Visconti and Vega-Mendez.2023.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2023.Nationalism_appendix.pdf) 
 
 [24] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
 
