@@ -55,7 +55,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ##### &nbsp; Cochran award for best paper published in Observational Studies between 2015 and 2019.
 
-[18] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](http://www.cienciapolitica.uc.cl/profesores/planta-academica/negretto-gabriel)). 2018. *Latin American Politics and Society* [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
+[18] "Electoral Reform Under Limited Party Competition: The Adoption of Proportional Representation in Latin America" (with [Gabriel Negretto](https://gabrielnegretto.com/)). 2018. *Latin American Politics and Society* [[Paper]](/pdfs/Negretto and Visconti.2018.LAPS.pdf)
 
 [19] "Economic Performance and Incumbents' Support in Latin America" (with [M. Victoria Murillo](https://mariavictoriamurillo.com/)). 2017. *Electoral Studies* [[Paper]](/pdfs/Murillo and Visconti.2017.Electoral Studies.pdf) [[Appendix]](/pdfs/Murillo and Visconti.2017.Electoral Studies_appendix.pdf) 
 
