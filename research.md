@@ -24,7 +24,7 @@ layout: page
 
 [4] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior* [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
-[5] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://www.cla.purdue.edu/directory/profiles/kayla-young.html)). 2022. *Research & Politics* [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
+[5] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://kaylamarieyoung.com/)). 2022. *Research & Politics* [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
 
 [6] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly* [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
@@ -41,7 +41,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [12] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society* [[Paper]](/pdfs/Visconti.2021.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2021.LAPS_appendix.pdf)
 
-[13] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)). 2021. *Revista Latinoamericana de Opinión Pública* [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
+[13] "Does Immigration Increase Concerns about the Provision of Public Services? Evidence from Colombia" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)). 2021. *Revista Latinoamericana de Opinión Pública* [[Paper]](/pdfs/Vega-Mendez and Visconti.2021.RLOP.pdf) 
 
 ##### &nbsp; María Braun award for the best paper published in RLOP in 2021.
 
@@ -66,9 +66,9 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [21] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Revise and Resubmit, *Journal of Politics*
 
-[22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://cla.purdue.edu/directory/profiles/kayla-young.html)). Revise and Resubmit, *PLOS ONE*
+[22] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). Revise and Resubmit, *PLOS ONE*
 
-[23] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behavior” (with [Catalina Vega-Mendez](https://cla.purdue.edu/academic/polsci/people/graduate-students.html)) [[Paper]](Visconti and Vega-Mendez.2023.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2023.Nationalism_appendix.pdf) 
+[23] “Does Immigration Increase Nationalism? The Effect of a Sudden Demographic Change on  Political Attitudes and Electoral Behavior” (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](Visconti and Vega-Mendez.2023.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2023.Nationalism_appendix.pdf) 
 
 [24] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/))
 
