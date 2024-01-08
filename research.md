@@ -16,7 +16,7 @@ layout: page
 
 ## Publications
 
-[1] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://cas.illinoisstate.edu/faculty_staff/profile.php?ulid=fseveri)). Conditionally Accepted. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.CondAccepted.JOP.pdf) [[Appendix]](/pdfs/Severino and Visconti.CondAccepted.JOP_appendix.pdf) 
+[1] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)). Conditionally Accepted. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.CondAccepted.JOP.pdf) [[Appendix]](/pdfs/Severino and Visconti.CondAccepted.JOP_appendix.pdf) 
 
 [2] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). 2023. *PLOS ONE* [[Paper]](/pdfs/Argote and Visconti.2023.PONE.pdf) [[Appendix]](/pdfs/Argote and Visconti.2023.PONE_appendix.pdf) 
 
