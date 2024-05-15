@@ -24,7 +24,7 @@ layout: page
 
 [4] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies* [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
 
-[5] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](http://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 2022. *Political Science Research and Methods* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.Crime.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.Crime_appendix.pdf)  
+[5] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2022. *Political Science Research and Methods* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.Crime.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.Crime_appendix.pdf)  
 
 [6] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior* [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
@@ -34,7 +34,7 @@ layout: page
 
 [9] "Who Does the Caring?  Gender Disparities in COVID-19 Attitudes and Behaviors" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2021. *Politics & Gender* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.P&G.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.P&G_appendix.pdf) 
 
-[10] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego)). 2021. *Governance* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
+[10] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2021. *Governance* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
 [11] "Does Issue Framing Shape Support for Covid-19 Lockdown Measures? Evidence from a Survey Experiment in
 Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2021. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.R&P_appendix.pdf)  
@@ -90,7 +90,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [33] "“The Impacts of Medical Professionals in Political Office” (with [Isabel Laterzo](https://isabellaterzo.com/))
 
-[34] "“Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile” (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/es/escuela2/profesores/49-diaz-diego))
+[34] "“Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile” (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
 ## Book Project
 
