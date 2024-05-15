@@ -81,6 +81,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 [28] "Why Forced-Choice Conjoint Experiments Fail to Mimic Electoral Decisions" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
 
 [29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)) 
+
 [30] "Democratic Elections and Anti-Immigration Attitudes” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
 
 [31] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero- Sánchez](https://ccaveros.github.io/))
