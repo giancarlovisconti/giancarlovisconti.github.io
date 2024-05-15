@@ -26,11 +26,11 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
 
-Welcome! I am an Assistant Professor of Political Science at [Pennsylvania State University](https://polisci.la.psu.edu/). Previously, I was an Assistant Professor at [Purdue University](https://www.cla.purdue.edu/polsci/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+Welcome! In the Fall of 2024, I will join the Department of Government and Politics at the University of Maryland as an Assistant Professor. I am an Assistant Professor of Political Science at [Pennsylvania State University](https://polisci.la.psu.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My research interests include crime, migration, and political attitudes. My work focuses on using and advancing methods for drawing causal inferences from experimental and observational data.
 
-My research has been published, or is forthcoming, in the *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
+My research has been published or conditionally accepted at the *Journal of Politics*, *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
 
 You can reach me (in English or Spanish) at: gvisconti[AT]psu[DOT]edu.
 
