@@ -80,17 +80,16 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [28] "Why Forced-Choice Conjoint Experiments Fail to Mimic Electoral Decisions" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
 
-[29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile” (with Sebastian Rivera* and Fernando Severino)
+[29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile” (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)) 
+[30] "Democratic Elections and Anti-Immigration Attitudes” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
 
-[30] "“Democratic Elections and Anti-Immigration Attitudes” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
+[31] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices” (with [Cecilia Cavero- Sánchez](https://ccaveros.github.io/))
 
-[31] "“The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices” (with [Cecilia Cavero- Sánchez](https://ccaveros.github.io/))
+[32] "Immigration and Punitive Responses to Criminal Violence” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
 
-[32] "“Immigration and Punitive Responses to Criminal Violence” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
+[33] "The Impacts of Medical Professionals in Political Office” (with [Isabel Laterzo](https://isabellaterzo.com/))
 
-[33] "“The Impacts of Medical Professionals in Political Office” (with [Isabel Laterzo](https://isabellaterzo.com/))
-
-[34] "“Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile” (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
+[34] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile” (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
 ## Book Project
 
