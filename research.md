@@ -18,7 +18,7 @@ layout: page
 
 [1] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)). Conditionally Accepted. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
 
-[2] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). 2024. *PLOS ONE* [[Paper]]() [[Appendix]]() 
+[2] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). 2024. *PLOS ONE* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
 
 [3] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). 2023. *PLOS ONE* [[Paper]](/pdfs/Argote and Visconti.2023.PONE.pdf) [[Appendix]](/pdfs/Argote and Visconti.2023.PONE_appendix.pdf) 
 
