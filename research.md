@@ -72,7 +72,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [24] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) Revise and Resubmit, *Research & Politics*
 
-[25] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Visconti and Vega Mendez.2024.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega Mendez.2024.Nationalism_appendix.pdf) 
+[25] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism_appendix.pdf) 
 
 [26] "Causes and Consequences of Ideological Persistence: The Case of Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
