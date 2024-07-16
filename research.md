@@ -18,7 +18,7 @@ layout: page
 
 [1] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)). Conditionally Accepted. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
 
-[2] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) Revise and Resubmit, *Research & Politics*
+[2] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Research & Politics*
 
 [3] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). 2024. *PLOS ONE* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
 
