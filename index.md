@@ -34,7 +34,7 @@ I study comparative political behavior and the political economy of developing c
 
 My research has been published or conditionally accepted at the *Journal of Politics*, *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
 
-You can reach me (in English or Spanish) at: gvisconti[AT]psu[DOT]edu.
+You can reach me (in English or Spanish) at: gvis[AT]umd[DOT]edu.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
 
