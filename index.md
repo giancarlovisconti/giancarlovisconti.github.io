@@ -30,7 +30,7 @@ I am an Assistant Professor of Government & Politics at the [University of Maryl
 
 I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My research interests include crime, migration, and political attitudes. My work focuses on using and advancing methods for drawing causal inferences from experimental and observational data.
 
-My research has been published or is forthcoming at the *Journal of Politics*, *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
+My research has been published, or is forthcoming, in the *Journal of Politics*, *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
 
 You can reach me (in English or Spanish) at: gvis[AT]umd[DOT]edu.
 
