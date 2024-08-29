@@ -16,7 +16,7 @@ layout: page
 
 ## Publications
 
-[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Comparative Politics*
+[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.CP.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.CP_appendix.pdf) 
 
 [2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)). Forthcoming. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
 
