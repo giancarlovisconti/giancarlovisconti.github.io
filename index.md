@@ -26,13 +26,13 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
 
-I am an Assistant Professor of Government & Politics at the [University of Maryland, College Park](https://gvpt.umd.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/) in 2018. I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate degree at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+I am an Assistant Professor of Government & Politics at the [University of Maryland, College Park](https://gvpt.umd.edu/). I received my Ph.D. in 2018 from [Columbia University](https://polisci.columbia.edu/). I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate studies at [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
-I study comparative political behavior and the political economy of developing countries, with a regional focus on Latin America. My research interests include crime, migration, and political attitudes. My work focuses on using and advancing methods for drawing causal inferences from experimental and observational data.
+My research focuses on comparative political behavior and the political economy of developing countries, particularly in Latin America. I am especially interested in topics related to crime, migration, and political attitudes. I also work on developing and applying methods for causal inference from both experimental and observational data.
 
-My research has been published, or is forthcoming, in the *Journal of Politics*, *British Journal of Political Science*, *Comparative Politics*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
+My work has been published, or is forthcoming, in the *Journal of Politics*, *British Journal of Political Science*, *Comparative Politics*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, and *Electoral Studies*, among other outlets.
 
-You can reach me (in English or Spanish) at: gvis[AT]umd[DOT]edu.
+You can reach me (in English or Spanish) at gvis[AT]umd[DOT]edu.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
 
