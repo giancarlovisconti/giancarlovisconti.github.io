@@ -1,7 +1,7 @@
 ---
 layout: page
 meta-title: Giancarlo Visconti"
-meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, PSU, Penn State, Pennsylvania State University, Purdue University, Columbia University"
+meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, PSU, Penn State, Pennsylvania State University, Purdue University, Columbia University, UMD, Maryland, University of Maryland, College Park"
 ---
 
 <head>
