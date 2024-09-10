@@ -96,45 +96,6 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [1] "Ideology without Partisanship: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
-%## Collaborators
-
-%[Acácio, Igor](https://www.igoracacio.com/), California State University, Fullerton. 
-
-%[Alberti, Carla](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla), Universidad Católica de Chile.
-
-%[Argote, Pablo](https://pabloargote.github.io/), University of Southern California.
-
-%[Carreras, Miguel](http://www.miguelcarreras.com/), University of California, Riverside. 
-
-%[Cavero-Sánchez, Cecilia](https://ccaveros.github.io/), Pennsylvania State University. 
-
-%[Dalton, Maya](https://daltma18.wixsite.com/mayaadalton), Pennsylvania State University. 
-
-%[Díaz-Rioseco, Diego](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/), Universidad Católica de Chile.
-
-%[Kuffuor, Owura](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html), Purdue University.  
-
-%[Laterzo-Tingley, Isabel](https://isabellaterzo.com/), University of Texas at Austin.
-
-%[Mares, Isabela](https://politicalscience.yale.edu/people/isabela-mares/), Yale University. 
-
-%[Murillo, M. Victoria](https://mariavictoriamurillo.com/), Columbia University. 
-
-%[Negretto, Gabriel](https://gabrielnegretto.com/), Universidad Carlos III.
-
-%[Rivera, Sebastian](https://sebastianrivera.cl/about-me/), Universidad Mayor. 
-
-%[Severino, Fernando](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri), Illinois State University. 
-
-%[Vega-Mendez, Catalina](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html), Purdue University.
-
-%[Vera, Sofia](https://sofiabvera.weebly.com/), University of Kansas.
-
-%[Yang, Yang](https://polisci.la.psu.edu/people/yang-yang/), Pennsylvania State University. 
-
-%[Young, Kayla](https://kaylamarieyoung.com/), Purdue University.
-
-%[Zubizarreta, José R.](http://jrzubizarreta.com/), Harvard University. 
 
 
 
