@@ -34,7 +34,7 @@ layout: page
 
 [9] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://kaylamarieyoung.com/)). 2022. *Research & Politics* [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
 
-[10] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly* [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
+[10] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://www.igoracacio.com/) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly* [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
 [11] "Who Does the Caring?  Gender Disparities in COVID-19 Attitudes and Behaviors" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2021. *Politics & Gender* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.P&G.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.P&G_appendix.pdf) 
 
