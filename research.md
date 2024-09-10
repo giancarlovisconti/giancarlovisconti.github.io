@@ -16,11 +16,11 @@ layout: page
 
 ## Publications
 
-[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). Forthcoming. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.CP.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.CP_appendix.pdf) 
+[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). Forthcoming. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.CP.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.CP_appendix.pdf) 
 
-[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)). Forthcoming. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
+[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). Forthcoming. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
 
-[3] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
+[3] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
 
 [4] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). 2024. *PLOS ONE* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
 
@@ -28,7 +28,7 @@ layout: page
 
 [6] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies* [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
 
-[7] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2022. *Political Science Research and Methods* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.Crime.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.Crime_appendix.pdf)  
+[7] "Can Political Alignment Reduce Crime? Evidence from Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2022. *Political Science Research and Methods* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2022.Crime.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2022.Crime_appendix.pdf)  
 
 [8] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior* [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
@@ -36,16 +36,16 @@ layout: page
 
 [10] "The Trump Election and Attitudes toward the United States in Latin America" (with [Igor Acácio](https://ucriverside.academia.edu/IgorAcacio) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly* [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
-[11] "Who Does the Caring?  Gender Disparities in COVID-19 Attitudes and Behaviors" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2021. *Politics & Gender* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.P&G.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.P&G_appendix.pdf) 
+[11] "Who Does the Caring?  Gender Disparities in COVID-19 Attitudes and Behaviors" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2021. *Politics & Gender* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.P&G.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.P&G_appendix.pdf) 
 
-[12] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2021. *Governance* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
+[12] "Gendered Bureaucracies: Women Mayors and the Size and Composition of Local Governments" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/)). 2021. *Governance* [[Paper]](/pdfs/Alberti, Diaz and Visconti.2021.Governance.pdf) [[Appendix]](/pdfs/Alberti, Diaz and Visconti.2021.Governance_appendix.pdf)
 
 [13] "Does Issue Framing Shape Support for Covid-19 Lockdown Measures? Evidence from a Survey Experiment in
-Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2021. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.R&P_appendix.pdf)  
+Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2021. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.R&P_appendix.pdf)  
 
 [14] "Do Disasters Affect Policy Priorities? Evidence from the 2010 Chilean Earthquake." 2021. *Journal of Elections, Public Opinion, and Parties* [[Paper]](/pdfs/Visconti.2021.JEPOP.pdf) [[Appendix]](/pdfs/Visconti.2021.JEPOP_appendix.pdf) 
 
-[15] "A Tale of Two Pandemics: Economic Inequality and Support for Containment Measures in Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)). 2021. *Journal of Politics In Latin America* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.JPLA.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.JPLA_appendix.pdf) 
+[15] "A Tale of Two Pandemics: Economic Inequality and Support for Containment Measures in Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2021. *Journal of Politics In Latin America* [[Paper]](/pdfs/Carreras, Vera and Visconti.2021.JPLA.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2021.JPLA_appendix.pdf) 
 
 [16] "Re-evaluating the Role of Ideology in Chile." 2021. *Latin American Politics and Society* [[Paper]](/pdfs/Visconti.2021.LAPS.pdf) [[Appendix]](/pdfs/Visconti.2021.LAPS_appendix.pdf)
 
@@ -80,17 +80,17 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [28] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
 
-[29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty/all/profile/?ulid=fseveri)) 
+[29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)) 
 
-[30] "Democratic Elections and Anti-Immigration Attitudes” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
+[30] "Democratic Elections and Anti-Immigration Attitudes” (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
 [31] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero- Sánchez](https://ccaveros.github.io/))
 
-[32] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://www.sofiabvera.com/)) 
+[32] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
-[33] "The Impacts of Medical Professionals in Political Office" (with [Isabel Laterzo](https://isabellaterzo.com/))
+[33] "The Impacts of Medical Professionals in Political Office" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
-[34] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](http://www.cienciapolitica.uc.cl/profesores/planta-academica/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
+[34] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
 ## Book Project
 
