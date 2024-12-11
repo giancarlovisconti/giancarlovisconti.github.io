@@ -88,7 +88,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [32] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
-[33] "Do Healthcare Professionals in Public Office Improve Public Health Outcomes? Evidence from Brazilian Municipalities" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
+[33] "Do Healthcare Professionals in Public Office Improve Public Health Outcomes? Evidence from Municipal Governments in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
 [34] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
