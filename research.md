@@ -18,7 +18,7 @@ layout: page
 
 [1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.CP.pdf)
 
-[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2024. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) 
+[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2024. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JOP.pdf) 
 
 [3] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
 
