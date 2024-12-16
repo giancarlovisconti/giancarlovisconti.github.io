@@ -6,7 +6,7 @@ layout: page
 
 # Op-eds
 
-[Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/)) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *El Mostrador*, November 29, 2024.
+[Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *El Mostrador*, November 29, 2024.
 
 [¿Quiénes son y qué piensan los nuevos votantes de Boric?](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 22, 2021.
 
