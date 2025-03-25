@@ -26,7 +26,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
 
 <img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
 
-I am an Assistant Professor of Government & Politics at the [University of Maryland, College Park](https://gvpt.umd.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/). I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate studies at the [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+I am an Assistant Professor of Government and Politics at the [University of Maryland, College Park](https://gvpt.umd.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/). I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate studies at the [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
 
 I study comparative political behavior and the political economy of development, with a regional focus on Latin America. My main research interests include crime, migration, ideology, and political attitudes. My work focuses on using and advancing methods for drawing causal inferences from both experimental and observational data. 
 
