@@ -8,6 +8,4 @@ layout: page
 
 Mi investigación se focaliza en el comportamiento político comparado y la economía política de los paises en vias de desarrollo, principalmente en América Latina. Además, la mayoría de mi trabajo se basa en el uso de métodos para establecer efectos causales usando datos experimentales y observacionales. 
 
-Mi investigación ha sido publicada, o esta por aparecer, en *British Journal of Political Science*, *Political Science Research and Methods*, *Public Opinion Quarterly*, y *Electoral Studies*, entre otras revistas.
-
-**Email**: gvisconti[ARROBA]psu[PUNTO]edu
+**Email**: gvis[ARROBA]umd[PUNTO]edu

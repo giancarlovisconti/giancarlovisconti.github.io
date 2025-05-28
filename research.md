@@ -16,9 +16,9 @@ layout: page
 
 ## Publications
 
-[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). Forthcoming. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.CP.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.CP_appendix.pdf) 
+[1] "Money and Time in the Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.Comparative Politics.pdf)
 
-[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). Forthcoming. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JoP.pdf) [[Appendix]](/pdfs/Severino and Visconti.2024.JoP_appendix.pdf) 
+[2] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2024. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2024.JOP.pdf) 
 
 [3] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
 
@@ -78,7 +78,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
 
-[28] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
+[28] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)   
 
 [29] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)) 
 
@@ -88,13 +88,13 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [32] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
-[33] "The Impacts of Medical Professionals in Political Office" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
+[33] "Do Healthcare Professionals in Public Office Improve Public Health Outcomes? Evidence from Municipal Governments in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
 [34] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
 ## Book Project
 
-[1] "Ideology without Partisanship: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
+[1] "Ideology without Parties: Voting Behavior in Chile" (with [Pablo Argote](https://pabloargote.github.io/))
 
 
 

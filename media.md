@@ -6,6 +6,8 @@ layout: page
 
 # Op-eds
 
+[Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *El Mostrador*, November 29, 2024.
+
 [¿Quiénes son y qué piensan los nuevos votantes de Boric?](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 22, 2021.
 
 [¿Es Kast el candidato de los “sectores populares”?](https://terceradosis.cl/2021/12/03/es-kast-el-candidato-de-los-sectores-populares/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 3, 2021.
@@ -26,7 +28,7 @@ layout: page
 
 [El PPD debería quedarse en un nicho electoral de izquierda-elite para no desaparecer](https://interferencia.cl/articulos/giancarlo-visconti-el-ppd-deberia-quedarse-en-un-nicho-electoral-de-izquierda-elite-para). *Interferencia*, May 29, 2021.
 
-Interviews on the US 2020 election: [CNN Chile](https://www.cnnchile.com/mundo/5-muertos-fallecio-policia-herido-capitolio_20210108/), [Mega](https://www.youtube.com/watch?v=IhKzlstqxCs&list=LL&index=2&t=62s), and [Radio Infinita](https://twitter.com/InfinitaFM/status/1324671451543310336). 
+Interviews on US elections: [CNN Chile](https://www.cnnchile.com/mundo/5-muertos-fallecio-policia-herido-capitolio_20210108/), [Mega](https://www.youtube.com/watch?v=IhKzlstqxCs&list=LL&index=2&t=62s), [Radio Infinita](https://twitter.com/InfinitaFM/status/1324671451543310336), and [Radio Infinita](https://www.youtube.com/watch?v=o2Ku2_cQmPo&t=144s&ab_channel=RadioInfinita).
 
 [Es otro país, el Chile de ahora es totalmente distinto al de 1973](https://www.eltelegrafo.com.ec/noticias/informacion/1/es-otro-pais-el-chile-de-ahora-es-totalmente-distinto-al-de-1973-galeria). *El Telegrafo*, September 11, 2014.
 
