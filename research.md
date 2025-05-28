@@ -76,7 +76,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [26] "Causes and Consequences of Ideological Persistence: The Case of Chile" (with [Pablo Argote](https://pabloargote.github.io/)) [[Paper]](/pdfs/Argote and Visconti.2024.Ideology_Chile.pdf) [[Appendix]](/pdfs/Argote and Visconti.2024.Ideology_Chile_appendix.pdf) 
 
-[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) [[Paper]](/pdfs/Dalton and Visconti.2024.Domestic_violence.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2024.Domestic_violence_appendix.pdf) 
+[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
 
 [28] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))
 
