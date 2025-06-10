@@ -20,7 +20,7 @@ layout: page
 
 [2] "Democratic Elections and Anti-Immigration Attitudes"  (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). Forthcoming. *Journal of Peace Research*
 
-[3] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/)* and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri))). Forthcoming. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
+[3] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/)* and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). Forthcoming. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
 
 [4] "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes" (with [Pablo Argote](https://pabloargote.github.io/)). Forthcoming. *Revista de Ciencia Pol\'itica* 
 
@@ -84,7 +84,8 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
 
-[3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)   
+[3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
+
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
 
 [5] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))
