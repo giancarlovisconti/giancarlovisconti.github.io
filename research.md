@@ -28,7 +28,7 @@ layout: page
 
 [6] "Money and Time in Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.Comparative Politics.pdf)
 
-[7] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoungcom.wordpress.com/). 2024. *PLOS One* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
+[7] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoungcom.wordpress.com/)). 2024. *PLOS One* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
 
 [8] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
 
