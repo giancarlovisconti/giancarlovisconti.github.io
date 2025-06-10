@@ -13,4 +13,4 @@ title: CV
   gtag('config', 'G-0J6S13EH3M');
 </script>
 
-You can find my CV [here](/pdfs/Visconti_cv_december2024.pdf){:target="_blank"} (updated December 2024).
+You can find my CV [here](/pdfs/Visconti_cv_june2025.pdf){:target="_blank"} (updated June 2025).
