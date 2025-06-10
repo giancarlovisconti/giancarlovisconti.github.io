@@ -84,8 +84,12 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
 
+<<<<<<< HEAD
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)   
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
+=======
+[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)
+>>>>>>> 01f31c6c95df002781ac5fa90b8b366bab3e2896
 
 [5] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
