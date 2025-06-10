@@ -82,7 +82,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [1] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism_appendix.pdf) 
 
-[2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
+[2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)  
 
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
