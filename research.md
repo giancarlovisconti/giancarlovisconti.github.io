@@ -82,25 +82,23 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [1] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism.pdf) [[Appendix]](/pdfs/Visconti and Vega-Mendez.2024.Nationalism_appendix.pdf) 
 
-[2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)  
+[2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)  
 
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
 
-[5] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))
+[5] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
-[6] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
+[6] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
-[7] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
+[7] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/))
 
-[8] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/))
+[8] "Ideological and Attitudinal Change in Two-Round Elections: Panel Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/) and [Sofia Rivera-Sojo](https://www.vanderbilt.edu/lapop/graduate-students.php))
 
-[9] "Ideological and Attitudinal Change in Two-Round Elections: Panel Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/) and [Sofia Rivera-Sojo](https://www.vanderbilt.edu/lapop/graduate-students.php))
+[9] "Equal Before the Law? Migrant Discrimination in Judicial Decisions in Colombia" (with [Yuri Saldarriaga](https://gvpt.umd.edu/gradprofile/saldarriaga/yuri))
 
-[10] "Equal Before the Law? Migrant Discrimination in Judicial Decisions in Colombia" (with [Yuri Saldarriaga](https://gvpt.umd.edu/gradprofile/saldarriaga/yuri))
-
-[11] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
+[10] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
 ## Book Project
 
