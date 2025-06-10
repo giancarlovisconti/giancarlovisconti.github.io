@@ -28,11 +28,11 @@ layout: page
 
 [6] "Money and Time in Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?" (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Comparative Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.Comparative Politics.pdf)
 
-[7] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoung.com/)). 2024. *PLOS ONE* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
+[7] "The Effect of Different Extreme Weather Events on Attitudes Toward Climate Change" (with [Kayla Young](https://kaylamarieyoungcom.wordpress.com/). 2024. *PLOS One* [[Paper]](/pdfs/Visconti and Young.2024.PONE.pdf) [[Appendix]](/pdfs/Visconti and Young.2024.PONE_appendix.pdf) 
 
 [8] "Gender Stereotypes and Petty Corruption among Street-level Bureaucrats: Evidence from a Conjoint Experiment" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2024. *Research & Politics* [[Paper]](/pdfs/Carreras, Vera and Visconti.2024.R&P.pdf) [[Appendix]](/pdfs/Carreras, Vera and Visconti.2024.R&P_appendix.pdf) 
 
-[9] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). 2023. *PLOS ONE* [[Paper]](/pdfs/Argote and Visconti.2023.PONE.pdf) [[Appendix]](/pdfs/Argote and Visconti.2023.PONE_appendix.pdf) 
+[9] “Anti-Elite Attitudes and Support for Independent Candidates” (with [Pablo Argote](https://pabloargote.github.io/)). 2023. *PLOS One* [[Paper]](/pdfs/Argote and Visconti.2023.PONE.pdf) [[Appendix]](/pdfs/Argote and Visconti.2023.PONE_appendix.pdf) 
 
 [10] "Who Pays for Crime? Criminal Violence, Right-Wing Incumbents, and Electoral Accountability in Latin America" (with [Miguel Carreras](https://www.miguelcarreras.com/)). 2022. *Electoral Studies* [[Paper]](/pdfs/Carreras and Visconti.2022.Electoral Studies.pdf) [[Appendix]](/pdfs/Carreras and Visconti.2022.Electoral Studies_appendix.pdf) 
 
@@ -40,7 +40,7 @@ layout: page
 
 [12] "After the Flood: Disasters, Ideological Voting and Electoral Choices in Chile." 2022. *Political Behavior* [[Paper]](/pdfs/Visconti.2022.POBE.pdf) [[Appendix]](/pdfs/Visconti.2022.POBE_appendix.pdf)   
 
-[13] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://kaylamarieyoung.com/)). 2022. *Research & Politics* [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
+[13] "Constructing Generalizable Geographic Natural Experiments" (with [Owura Kuffuor](https://www.cla.purdue.edu/directory/profiles/owura-kuffuor.html) and [Kayla Young](https://kaylamarieyoungcom.wordpress.com/)). 2022. *Research & Politics* [[Paper]](/pdfs/Kuffuor, Visconti and Young.2022.R&P.pdf) [[Appendix]](/pdfs/Kuffuor, Visconti and Young.2022.R&P_appendix.pdf)  
 
 [14] "The Trump Election and Attitudes Toward the United States in Latin America" (with [Igor Acácio](https://www.igoracacio.com/) and [Miguel Carreras](https://www.miguelcarreras.com/)). 2021. *Public Opinion Quarterly* [[Paper]](/pdfs/Carreras, Visconti and Acacio.2021.POQ.pdf) [[Appendix]](/pdfs/Carreras, Visconti and Acacio.2021.POQ_appendix.pdf) 
 
@@ -84,24 +84,22 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [2] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) 
 
-<<<<<<< HEAD
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)   
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
-=======
-[27] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://daltma18.wixsite.com/mayaadalton)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)
->>>>>>> 01f31c6c95df002781ac5fa90b8b366bab3e2896
 
-[5] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
+[5] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))
 
-[6] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
+[6] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
-[7] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/))
+[7] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
-[8] "Ideological and Attitudinal Change in Two-Round Elections: Panel Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/) and [Sofia Rivera-Sojo](https://www.vanderbilt.edu/lapop/graduate-students.php))
+[8] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/))
 
-[9] "Equal Before the Law? Migrant Discrimination in Judicial Decisions in Colombia" (with [Yuri Saldarriaga](https://gvpt.umd.edu/gradprofile/saldarriaga/yuri))
+[9] "Ideological and Attitudinal Change in Two-Round Elections: Panel Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/) and [Sofia Rivera-Sojo](https://www.vanderbilt.edu/lapop/graduate-students.php))
 
-[10] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
+[10] "Equal Before the Law? Migrant Discrimination in Judicial Decisions in Colombia" (with [Yuri Saldarriaga](https://gvpt.umd.edu/gradprofile/saldarriaga/yuri))
+
+[11] "Immigration and Punitive Responses to Criminal Violence" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)) 
 
 ## Book Project
 
