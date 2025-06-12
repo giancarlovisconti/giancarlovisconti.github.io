@@ -20,7 +20,7 @@ layout: page
 
 [2] "Democratic Elections and Anti-Immigration Attitudes"  (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). Forthcoming. *Journal of Peace Research*
 
-[3] "Exposure to Protests and Support for Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/)* and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). Forthcoming. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
+[3] "Exposure to Protests and Support for Different Forms of Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/)* and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). Forthcoming. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
 
 [4] "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes" (with [Pablo Argote](https://pabloargote.github.io/)). Forthcoming. *Revista de Ciencia Política* 
 
