@@ -6,19 +6,19 @@ layout: page
 
 # Op-eds
 
-[La ideología sigue viva, pero no como la conocíamos](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *El Mostrador*, July 10, 2025.
+[La ideología sigue viva, pero no como la conocíamos](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/) (with [Pablo Argote](https://pabloargote.github.io/)). *El Mostrador*, July 10, 2025.
 
-[Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *El Mostrador*, November 29, 2024.
+[Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/) (with [Pablo Argote](https://pabloargote.github.io/)). *El Mostrador*, November 29, 2024.
 
-[¿Quiénes son y qué piensan los nuevos votantes de Boric?](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 22, 2021.
+[¿Quiénes son y qué piensan los nuevos votantes de Boric?](https://terceradosis.cl/2021/12/22/quienes-son-y-que-piensan-los-nuevos-votantes-de-boric/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, December 22, 2021.
 
-[¿Es Kast el candidato de los “sectores populares”?](https://terceradosis.cl/2021/12/03/es-kast-el-candidato-de-los-sectores-populares/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, December 3, 2021.
+[¿Es Kast el candidato de los “sectores populares”?](https://terceradosis.cl/2021/12/03/es-kast-el-candidato-de-los-sectores-populares/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, December 3, 2021.
 
-[Entendiendo al votante de Boric](https://terceradosis.cl/2021/11/26/entendiendo-al-votante-de-boric/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 26, 2021.
+[Entendiendo al votante de Boric](https://terceradosis.cl/2021/11/26/entendiendo-al-votante-de-boric/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, November 26, 2021.
 
-[Entendiendo al votante de Parisi](https://terceradosis.cl/2021/11/24/entendiendo-al-votante-de-parisi/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 24, 2021.
+[Entendiendo al votante de Parisi](https://terceradosis.cl/2021/11/24/entendiendo-al-votante-de-parisi/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, November 24, 2021.
 
-[Entendiendo al votante de Kast](https://terceradosis.cl/2021/11/23/entendiendo-al-votante-de-kast/) (with [Pablo Argote](https://polisci.columbia.edu/content/pablo-argote)). *Tercera Dosis*, November 23, 2021.
+[Entendiendo al votante de Kast](https://terceradosis.cl/2021/11/23/entendiendo-al-votante-de-kast/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, November 23, 2021.
 
 [Reevaluando la tesis del desplome](https://www.ciperchile.cl/2021/05/22/reevaluando-la-tesis-del-desplome/). *Ciper Académico*, May 22, 2021.
 
