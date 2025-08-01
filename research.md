@@ -86,13 +86,13 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
-[4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
+[4] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/)) [[Paper]](/pdfs/Argote, de la Cerda and Visconti.2025.Thick and Thin.pdf)
 
-[5] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
+[5] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
 
-[6] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
+[6] "When Doctors Govern: The Impact of Medical Mayors on Public Health in Brazil" (with [Isabel Laterzo-Tingley](https://isabellaterzo.com/))
 
-[7] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/))
+[7] "Gender, Crime, and Political Accountability: Evidence from Local Governments in Chile" (with [Carla Alberti](https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/alberti-carla) and [Diego Díaz-Rioseco](https://gobierno.uc.cl/profesores/diego-diaz-rioseco/))
 
 [8] "Ideological and Attitudinal Change in Two-Round Elections: Panel Evidence from Chile" (with [Pablo Argote](https://pabloargote.github.io/) and [Sofia Rivera-Sojo](https://www.vanderbilt.edu/lapop/graduate-students.php))
 
