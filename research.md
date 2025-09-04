@@ -93,7 +93,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
 
-[5] “Migration and Demand for Political Information: Evidence from a Sudden Demographic Change in Chile” [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri))
+[5] “Migration and Demand for Political Information: Evidence from a Sudden Demographic Change in Chile” (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri))
 
 [6] "Thick and Thin Ideological Dimensions of Electoral Competition in Latin America" (with [Pablo Argote](https://pabloargote.github.io/) and [Nicolás de la Cerda](https://nicolasdelacerda.com/)) [[Paper]](/pdfs/Argote, de la Cerda and Visconti.2025.Thick and Thin.pdf)
 
