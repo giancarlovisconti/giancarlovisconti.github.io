@@ -23,7 +23,7 @@ American Politics and Society.
 
 [2] "Causes and Consequences of Ideological Persistence: The Case of Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Latin American Politics and Society* [[Paper]](/pdfs/Argote and Visconti.2025.LAPS.pdf) 
 
-[3] "Democratic Elections and Anti-Immigration Attitudes"  (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2025. *Journal of Peace Research*
+[3] "Democratic Elections and Anti-Immigration Attitudes"  (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2025. *Journal of Peace Research* [[Paper]](/pdfs/Carreras, Vera and Visconti.2025.JPR.pdf) 
 
 [4] "Exposure to Protests and Support for Different Forms of Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2025. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
 
