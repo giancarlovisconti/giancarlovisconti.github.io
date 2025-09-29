@@ -27,7 +27,7 @@ American Politics and Society.
 
 [4] "Exposure to Protests and Support for Different Forms of Violence: Evidence from the 2019 Social Outburst in Chile" (with [Sebastian Rivera](https://sebastianrivera.cl/about-me/) and [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2025. *Research & Politics* [[Paper]](/pdfs/Rivera, Severino and Visconti.2025.R&P.pdf) 
 
-[5] "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes" (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Revista de Ciencia Política* 
+[5] "Chile 2024: The Resilience of Ideology and the Rise of Anti-Elite Attitudes" (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Revista de Ciencia Política* [[Paper]](/pdfs/Argote and Visconti.2025.RCP.pdf) 
 
 [6] "Immigration Shocks and Unfounded Concerns about Crime: Evidence from Haitian Migration to Chile" (with [Fernando Severino](https://communication.illinoisstate.edu/faculty-staff/profile/?ulid=fseveri)). 2025. *Journal of Politics* [[Paper]](/pdfs/Severino and Visconti.2025.JOP.pdf) 
 
