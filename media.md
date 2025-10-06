@@ -6,6 +6,8 @@ layout: page
 
 # Op-eds
 
+[Entendiendo la política chilena postestallido](https://terceradosis.cl/2025/10/05/entendiendo-la-politica-chilena-postestallido-la-ideologia-importa/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, October 5, 2025.
+
 [La ideología sigue viva, pero no como la conocíamos](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/) (with [Pablo Argote](https://pabloargote.github.io/)). *El Mostrador*, July 10, 2025.
 
 [Mientras los partidos mueren, la ideología y la estabilidad sobreviven](https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/29/mientras-los-partidos-mueren-la-ideologia-y-la-estabilidad-sobreviven/) (with [Pablo Argote](https://pabloargote.github.io/)). *El Mostrador*, November 29, 2024.
