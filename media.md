@@ -38,7 +38,7 @@ Interviews on US elections: [CNN Chile](https://www.cnnchile.com/mundo/5-muertos
 
 # Media coverage
 
-[Escobar y Valdivieso por la era de la sociedad post-alfabeta y las identidades políticas en Chile]([/media/lasegunda2023.pdf](https://podcasts.apple.com/us/podcast/escobar-y-valdivieso-por-la-era-de-la-sociedad-post/id1294894736?i=1000730896870)). *Pagina 13, T13 Radio*, October 9, 2025.
+[Escobar y Valdivieso por la era de la sociedad post-alfabeta y las identidades políticas en Chile](https://podcasts.apple.com/us/podcast/escobar-y-valdivieso-por-la-era-de-la-sociedad-post/id1294894736?i=1000730896870). *Pagina 13, T13 Radio*, October 9, 2025.
 
 [Seguridad Pública y sesgos políticos](/media/lasegunda2023.pdf). *La Segunda*, July 12, 2023.
 
