@@ -85,7 +85,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile.pdf) [[Appendix]](/pdfs/Dalton and Visconti.2025.Domestic_violence_Chile_appendix.pdf)  
+[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf) 
 
 [2] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
