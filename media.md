@@ -6,6 +6,8 @@ layout: page
 
 # Op-eds
 
+[Un país dividido por la ideología y cansado de los políticos](https://terceradosis.cl/2025/11/17/serie__en-que-estaban-pensando-un-pais-dividido-por-la-ideologia-y-cansado-de-los-politicos/?_thumbnail_id=14456). *Tercera Dosis*, November 17, 2025.
+
 [Entendiendo la política chilena postestallido](https://terceradosis.cl/2025/10/05/entendiendo-la-politica-chilena-postestallido-la-ideologia-importa/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, October 5, 2025.
 
 [La ideología sigue viva, pero no como la conocíamos](https://www.elmostrador.cl/noticias/opinion/columnas/2025/07/10/la-ideologia-sigue-viva-pero-no-como-la-conociamos/) (with [Pablo Argote](https://pabloargote.github.io/)). *El Mostrador*, July 10, 2025.
