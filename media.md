@@ -26,11 +26,15 @@ layout: page
 
 # Interviews
 
+[Elecciones en Chile: Kast y Jara irán a segunda vuelta con propuestas económicas opuestas](https://www.bloomberglinea.com/latinoamerica/chile/jeannette-jara-y-jose-antonio-kast-pasan-a-la-segunda-vuelta-presidencial-en-chile/). *Bloomberg Línea*, November 17, 2025.
+
+[Economia fraca e segurança: os temas que ditam o rumo do segundo turno no Chile](https://www.bloomberglinea.com.br/internacional/economia-fraca-e-seguranca-os-temas-que-devem-ditar-o-rumo-do-segundo-turno-no-chile/). *Bloomberg Línea*, November 17, 2025.
+
 [Chile Communist, Conservative Heading to Presidential Runoff](https://www.bloomberg.com/news/articles/2025-11-16/chile-communist-and-conservative-on-track-for-runoff?embedded-checkout=true). *Bloomberg*, November 16, 2025.
 
-[Anti-Crime, Anti-Migrant Pitch Boosts Chilean Christian Nationalist Kast](https://www.bloomberg.com/news/features/2025-11-14/chile-presidential-race-conservative-kast-wants-to-deport-migrants?embedded-checkout=true). *Bloomberg*, November 14, 2025.
-
 [Kast, el nacionalista cristiano que desafía a izquierda en Chile](https://es-us.finanzas.yahoo.com/noticias/kast-nacionalista-cristiano-desaf%C3%ADa-izquierda-093000789.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFCCKzJIHT35PePL1dYc9oRH9d70RrWSmq_81a7Z-ZFRUbdcUeSy7EzUxfXAY87UUL2h21ZiuR2mdceA7VE7FC9bKT4WzbTRaGv8zoUDu3bvsx9wC3trwXyxe4FxeZkgdSqJdHYJw1WrcKK3Mlqb8NJNWfZHpqUFaEdUYTryhZsH). *Yahoo*, November 14, 2025.
+
+[Anti-Crime, Anti-Migrant Pitch Boosts Chilean Christian Nationalist Kast](https://www.bloomberg.com/news/features/2025-11-14/chile-presidential-race-conservative-kast-wants-to-deport-migrants?embedded-checkout=true). *Bloomberg*, November 14, 2025.
 
 [Giancarlo Visconti explicó cómo funciona el otorgamiento de recursos para los Programas de Mejoramiento Urbano](https://www.infinita.cl/entrevistas/2023/07/14/giancarlo-visconti-explico-como-funciona-el-otorgamiento-de-recursos-para-los-programas-de-mejoramiento-urbano.html). *Radio Infinita*, July 14, 2023.
 
