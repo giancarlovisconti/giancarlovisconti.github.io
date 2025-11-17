@@ -26,6 +26,10 @@ layout: page
 
 # Interviews
 
+[Anti-Crime, Anti-Migrant Pitch Boosts Chilean Christian Nationalist Kast](https://www.bloomberg.com/news/features/2025-11-14/chile-presidential-race-conservative-kast-wants-to-deport-migrants?embedded-checkout=true).*Bloomberg*, November 14, 2025.
+
+[Kast, el nacionalista cristiano que desafía a izquierda en Chile](https://es-us.finanzas.yahoo.com/noticias/kast-nacionalista-cristiano-desaf%C3%ADa-izquierda-093000789.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFCCKzJIHT35PePL1dYc9oRH9d70RrWSmq_81a7Z-ZFRUbdcUeSy7EzUxfXAY87UUL2h21ZiuR2mdceA7VE7FC9bKT4WzbTRaGv8zoUDu3bvsx9wC3trwXyxe4FxeZkgdSqJdHYJw1WrcKK3Mlqb8NJNWfZHpqUFaEdUYTryhZsH).*Yahoo*, November 14, 2025.
+
 [Giancarlo Visconti explicó cómo funciona el otorgamiento de recursos para los Programas de Mejoramiento Urbano](https://www.infinita.cl/entrevistas/2023/07/14/giancarlo-visconti-explico-como-funciona-el-otorgamiento-de-recursos-para-los-programas-de-mejoramiento-urbano.html). *Radio Infinita*, July 14, 2023.
 
 [La política de la identidad seguira dominando la discusión](/media/lasegunda2022.pdf). *La Segunda*, January 21, 2022.
