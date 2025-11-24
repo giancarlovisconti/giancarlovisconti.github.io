@@ -6,7 +6,9 @@ layout: page
 
 # Op-eds
 
-[Radiografía de la derechización del electorado chileno](https://terceradosis.cl/2025/11/19/serie_-en-que-estaban-pensando-radiografia-de-la-derechizacion-del-electorado-chileno/) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, November 19, 2025.
+[¿Cambian las actitudes políticas entre la primera y segunda vuelta?](https://terceradosis.cl/2025/11/19/serie_-en-que-estaban-pensando-radiografia-de-la-derechizacion-del-electorado-chileno/) (with [Pablo Argote](https://pabloargote.github.io/). *MEPOP: Núcleo Milenio para el Estudio de la Política, Opinión Pública y Medios en Chile*, November 24, 2025.
+
+[Radiografía de la derechización del electorado chileno](https://terceradosis.cl/2025/11/19/serie_-en-que-estaban-pensando-radiografia-de-la-derechizacion-del-electorado-chileno/) (with [Pablo Argote](https://pabloargote.github.io/). *Tercera Dosis*, November 19, 2025.
 
 [Un país dividido por la ideología y cansado de los políticos](https://terceradosis.cl/2025/11/17/serie__en-que-estaban-pensando-un-pais-dividido-por-la-ideologia-y-cansado-de-los-politicos/?_thumbnail_id=14456) (with [Pablo Argote](https://pabloargote.github.io/)). *Tercera Dosis*, November 17, 2025.
 
