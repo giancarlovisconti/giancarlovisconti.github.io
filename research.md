@@ -16,7 +16,7 @@ layout: page
 
 ## Publications
 
-[1] “Beyond Rejection: Ideological Belonging in a Weak-Party System” (with Pablo Argote). 2025. *Latin
+[1] “Beyond Rejection: Ideological Belonging in a Weak-Party System” (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Latin
 American Politics and Society*.
 
 ##### &nbsp; Rejoinder to the response to “Causes and Consequences of Ideological Persistence: The Case of Chile”
