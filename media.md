@@ -6,7 +6,7 @@ layout: page
 
 # Op-eds
 
-[¿Cambian las actitudes políticas entre la primera y segunda vuelta?](https://mepop.cl/cambian-las-actitudes-politicas-entre-la-primera-y-segunda-vuelta/) (with [Pablo Argote](https://pabloargote.github.io/). *Análisis de las Elecciones 2025, MEPOP*, November 24, 2025.
+[¿Cambian las actitudes políticas entre la primera y segunda vuelta?](https://mepop.cl/cambian-las-actitudes-politicas-entre-la-primera-y-segunda-vuelta/) (with [Pablo Argote])(https://pabloargote.github.io/). *Análisis de las Elecciones 2025, MEPOP*, November 24, 2025.
 
 [Radiografía de la derechización del electorado chileno](https://terceradosis.cl/2025/11/19/serie_-en-que-estaban-pensando-radiografia-de-la-derechizacion-del-electorado-chileno/) (with [Pablo Argote](https://pabloargote.github.io/). *Tercera Dosis*, November 19, 2025.
 
