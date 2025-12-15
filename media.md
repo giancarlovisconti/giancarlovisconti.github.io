@@ -32,6 +32,8 @@ layout: page
 
 # Interviews
 
+[Chile acelera su péndulo: del estallido social a un posible gobierno de ultraderecha en seis años](https://www.france24.com/es/am%C3%A9rica-latina/20251212-chile-acelera-su-p%C3%A9ndulo-del-estallido-social-a-un-posible-gobierno-de-ultraderecha-en-seis-a%C3%B1os). *France 24*, December 13, 2025.
+
 [Elecciones en Chile: Kast y Jara irán a segunda vuelta con propuestas económicas opuestas](https://www.bloomberglinea.com/latinoamerica/chile/jeannette-jara-y-jose-antonio-kast-pasan-a-la-segunda-vuelta-presidencial-en-chile/). *Bloomberg Línea*, November 17, 2025.
 
 [Economia fraca e segurança: os temas que ditam o rumo do segundo turno no Chile](https://www.bloomberglinea.com.br/internacional/economia-fraca-e-seguranca-os-temas-que-devem-ditar-o-rumo-do-segundo-turno-no-chile/). *Bloomberg Línea*, November 17, 2025.
