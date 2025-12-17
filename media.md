@@ -32,6 +32,10 @@ layout: page
 
 # Interviews
 
+[Milei Embraces Chile's President Elect, Cementing Right-Wing Alliance](https://www.bloomberg.com/news/articles/2025-12-16/odd-couple-kast-milei-transform-south-american-rivalry-into-right-wing-bromance?embedded-checkout=true). *Bloomberg*, December 17, 2025.
+
+[Kast y Milei fortalecen alianza regional con enfoque económico y agenda conservadora](https://www.redimin.cl/kast-y-milei-fortalecen-alianza-regional-con-enfoque-economico-y-agenda-conservadora/). *Revista Digital Mineria*, December 16, 2025.
+
 [Chile acelera su péndulo: del estallido social a un posible gobierno de ultraderecha en seis años](https://www.france24.com/es/am%C3%A9rica-latina/20251212-chile-acelera-su-p%C3%A9ndulo-del-estallido-social-a-un-posible-gobierno-de-ultraderecha-en-seis-a%C3%B1os). *France 24*, December 13, 2025.
 
 [Elecciones en Chile: Kast y Jara irán a segunda vuelta con propuestas económicas opuestas](https://www.bloomberglinea.com/latinoamerica/chile/jeannette-jara-y-jose-antonio-kast-pasan-a-la-segunda-vuelta-presidencial-en-chile/). *Bloomberg Línea*, November 17, 2025.
