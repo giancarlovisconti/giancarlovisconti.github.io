@@ -17,11 +17,11 @@ layout: page
 ## Publications
 
 [1] “Beyond Rejection: Ideological Belonging in a Weak-Party System” (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Latin
-American Politics and Society*.
+American Politics and Society*. [[Paper]](/pdfs/Argote and Visconti.2025.LAPS_2.pdf) [[Appendix]](/pdfs/Argote and Visconti.2025.LAPS_2_appendix.pdf) 
 
-##### &nbsp; Rejoinder to the response to “Causes and Consequences of Ideological Persistence: The Case of Chile”
+##### &nbsp; Rejoinder to the [response](https://www.cambridge.org/core/journals/latin-american-politics-and-society/article/chilean-anti-voter/76D39815C93F04C20ECA08736EA6DAE5) to “Causes and Consequences of Ideological Persistence: The Case of Chile”
 
-[2] "Causes and Consequences of Ideological Persistence: The Case of Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Latin American Politics and Society* [[Paper]](/pdfs/Argote and Visconti.2025.LAPS.pdf) 
+[2] "Causes and Consequences of Ideological Persistence: The Case of Chile" (with [Pablo Argote](https://pabloargote.github.io/)). 2025. *Latin American Politics and Society* [[Paper]](/pdfs/Argote and Visconti.2025.LAPS_1.pdf) [[Appendix]](/pdfs/Argote and Visconti.2025.LAPS_1_appendix.pdf) 
 
 [3] "Democratic Elections and Anti-Immigration Attitudes"  (with [Miguel Carreras](http://www.miguelcarreras.com/) and [Sofia Vera](https://sofiabvera.weebly.com/)). 2025. *Journal of Peace Research* [[Paper]](/pdfs/Carreras, Vera and Visconti.2025.JPR.pdf) 
 
@@ -85,11 +85,11 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf) 
+[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf). *Revise and Resubmit, Journal of Politics*. 
 
-[2] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
+[2] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism.pdf) [[Appendix]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism_appendix.pdf).  *Revise and Resubmit, Political Behavior*. 
 
-[3] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism.pdf) [[Appendix]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism_appendix.pdf) 
+[3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
 [4] "The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices" (with [Cecilia Cavero-Sánchez](https://ccaveros.github.io/))
 
