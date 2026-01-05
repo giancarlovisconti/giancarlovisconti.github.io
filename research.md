@@ -85,9 +85,9 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/)) [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf). *Revise and Resubmit, Journal of Politics*. 
+[1] "Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))  *Revise and Resubmit, Journal of Politics* [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf)
 
-[2] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) [[Paper]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism.pdf) [[Appendix]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism_appendix.pdf).  *Revise and Resubmit, Political Behavior*. 
+[2] “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) *Revise and Resubmit, Political Behavior* [[Paper]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism.pdf) 
 
 [3] "The Limitations of Using Forced Choice in Electoral Conjoint Experiments" (with [Yang Yang](https://polisci.la.psu.edu/people/yang-yang/))  [[Paper]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice.pdf) [[Appendix]](/pdfs/Visconti and Yang.2024.Conjoint_Forced_Choice_appendix.pdf)  
 
