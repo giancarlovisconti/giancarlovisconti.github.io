@@ -1,6 +1,5 @@
 ---
 title: "Research"
-output: pdf_document
 layout: page
 ---
 
