@@ -83,7 +83,7 @@ Peru" (with [Miguel Carreras](https://www.miguelcarreras.com/) and [Sofia Vera](
 
 ## Working papers
 
-"Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))  * 2nd Revise and Resubmit, Journal of Politics* [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf)
+"Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence" (with [Maya Dalton](https://polisci.la.psu.edu/people/maya-dalton/))  *2nd Revise and Resubmit, Journal of Politics* [[Paper]](/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf)
 
 “Immigration and Nationalistic Attitudes: Panel Evidence from Chile" (with [Catalina Vega-Mendez](https://cla.purdue.edu/directory/profiles/catalina-vega-mendez.html)) *Revise and Resubmit, Political Behavior* [[Paper]](/pdfs/Vega-Mendez and Visconti.2025.Nationalism.pdf) 
 
