@@ -1,5 +1,4 @@
 ---
-title: "Research"
 layout: page
 ---
 
@@ -13,11 +12,6 @@ layout: page
 </script>
 
 <style>
-  /* ── Page title ── */
-  .page-heading, .intro-header h1, .container h1:first-of-type {
-    display: none !important;
-  }
-
   /* ── Research page styles ── */
   .research-section-title {
     font-size: 24px;
