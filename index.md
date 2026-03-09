@@ -151,6 +151,6 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
 </div>
 
 <div class="photo-gallery">
-  <img src="/img/pvaras.jpg" alt="Puerto Varas">
+  <img src="/img/puerto_varas.jpg" alt="Puerto Varas">
   <img src="/img/santiago.jpg" alt="Santiago">
 </div>
