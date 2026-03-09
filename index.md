@@ -99,12 +99,25 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     width: 100%;
   }
 
-  .photo-gallery img {
+  .photo-gallery figure {
     width: 50%;
+    margin: 0;
+  }
+
+  .photo-gallery img {
+    width: 100%;
     border-radius: 4px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.1);
     object-fit: cover;
     height: 360px;
+  }
+
+  .photo-gallery figcaption {
+    text-align: center;
+    font-size: 15px;
+    color: #777;
+    margin-top: 0.5rem;
+    font-style: italic;
   }
 
   @media (max-width: 768px) {
@@ -120,6 +133,10 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
 
     .photo-gallery {
       flex-direction: column;
+    }
+
+    .photo-gallery figure {
+      width: 100%;
     }
 
     .photo-gallery img {
@@ -151,6 +168,12 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
 </div>
 
 <div class="photo-gallery">
-  <img src="/img/puerto_varas.jpg" alt="Puerto Varas">
-  <img src="/img/santiago.jpg" alt="Santiago">
+  <figure>
+    <img src="/img/pvaras.jpg" alt="Puerto Varas">
+    <figcaption>Puerto Varas, Chile</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/santiago.jpg" alt="Santiago">
+    <figcaption>Santiago, Chile</figcaption>
+  </figure>
 </div>
