@@ -169,10 +169,6 @@ layout: page
   }
 </style>
 
-<div class="research-intro">
-  My research examines how citizens in Latin America respond to insecurity, disasters, and immigration; how ideological identification persists even where parties are weak; and how the identity of elected leaders—particularly women—shapes policy outcomes. I use quasi-experimental designs (RDD, DiD, staggered adoption estimators), survey experiments, and panel data, with most of my work set in Chile and the broader region.
-</div>
-
 <!-- ═══════════════════════════════════════════ -->
 <h2 class="research-section-title">Publications</h2>
 <!-- ═══════════════════════════════════════════ -->
