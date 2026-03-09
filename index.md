@@ -169,7 +169,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
 
 <div class="photo-gallery">
   <figure>
-    <img src="/img/pvaras.jpg" alt="Puerto Varas">
+    <img src="/img/puerto_varas.jpg" alt="Puerto Varas">
     <figcaption>Puerto Varas, Chile</figcaption>
   </figure>
   <figure>
