@@ -13,6 +13,11 @@ layout: page
 </script>
 
 <style>
+  /* ── Page title ── */
+  .page-title, .post-title, h1.page-heading {
+    font-size: 28px !important;
+  }
+
   /* ── Research page styles ── */
   .research-section-title {
     font-size: 24px;
