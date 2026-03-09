@@ -15,7 +15,7 @@ layout: page
 <style>
   /* ── Page title ── */
   .page-title, .post-title, h1.page-heading {
-    font-size: 24px !important;
+    display: none !important;
   }
 
   /* ── Research page styles ── */
