@@ -14,7 +14,7 @@ layout: page
 
 <style>
   /* ── Page title ── */
-  .page-title, .post-title, h1.page-heading {
+  .page-heading, .intro-header h1, .container h1:first-of-type {
     display: none !important;
   }
 
