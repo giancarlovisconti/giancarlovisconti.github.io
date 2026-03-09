@@ -92,47 +92,6 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     border-color: #c62828;
   }
 
-  .cv-section {
-    margin-top: 2.5rem;
-    margin-bottom: 2rem;
-  }
-
-  .cv-section-title {
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #1a1a1a;
-    border-bottom: 2.5px solid #c62828;
-    padding-bottom: 0.35rem;
-    margin-bottom: 1rem;
-  }
-
-  .cv-embed {
-    width: 100%;
-    height: 800px;
-    border: 1px solid #e0e0e0;
-    border-radius: 4px;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-  }
-
-  .cv-download {
-    margin-top: 0.8rem;
-    font-size: 15px;
-    color: #777;
-  }
-
-  .cv-download a {
-    color: #c62828;
-    text-decoration: none;
-    border-bottom: 1px dotted #c62828;
-    transition: border-color 0.15s ease;
-  }
-
-  .cv-download a:hover {
-    border-bottom-style: solid;
-  }
-
   .photo-gallery {
     display: flex;
     gap: 1.2rem;
@@ -172,10 +131,6 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
       min-width: auto;
     }
 
-    .cv-embed {
-      height: 500px;
-    }
-
     .photo-gallery {
       flex-direction: column;
     }
@@ -208,15 +163,8 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     </div>
     <div class="bio-links">
       <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ">Google Scholar</a>
+      <a href="/pdfs/Visconti_cv_february2026.pdf" target="_blank">CV</a>
     </div>
-  </div>
-</div>
-
-<div class="cv-section">
-  <h2 class="cv-section-title">Curriculum Vitae</h2>
-  <iframe src="/pdfs/Visconti_cv_february2026.pdf" class="cv-embed" title="Giancarlo Visconti CV"></iframe>
-  <div class="cv-download">
-    <a href="/pdfs/Visconti_cv_february2026.pdf" target="_blank">Download PDF</a> · Updated February 2026
   </div>
 </div>
 
