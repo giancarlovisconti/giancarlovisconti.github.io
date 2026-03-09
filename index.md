@@ -66,13 +66,15 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     color: #555;
   }
 
-  .bio-links {
-    margin-top: 1rem;
+  .cv-center {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 
-  .bio-links a {
+  .cv-center a.cv-button {
     display: inline-block;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -80,13 +82,43 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     background: #fef2f2;
     border: 1px solid #f5c6c6;
     border-radius: 3px;
-    padding: 0.25rem 0.65rem;
-    margin-right: 0.35rem;
+    padding: 0.4rem 1rem;
     text-decoration: none;
     transition: all 0.15s ease;
   }
 
-  .bio-links a:hover {
+  .cv-center a.cv-button:hover {
+    background: #c62828;
+    color: #fff;
+    border-color: #c62828;
+  }
+
+  .cv-updated {
+    font-size: 15px;
+    color: #777;
+    margin-top: 0.5rem;
+  }
+
+  .cv-scholar {
+    margin-top: 1.5rem;
+  }
+
+  .cv-scholar a {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #c62828;
+    background: #fef2f2;
+    border: 1px solid #f5c6c6;
+    border-radius: 3px;
+    padding: 0.4rem 1rem;
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .cv-scholar a:hover {
     background: #c62828;
     color: #fff;
     border-color: #c62828;
@@ -161,10 +193,14 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
     <div class="bio-contact">
       You can reach me (in English or Spanish) at gvis[AT]umd[DOT]edu.
     </div>
-    <div class="bio-links">
-      <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ">Google Scholar</a>
-      <a href="/pdfs/Visconti_cv_february2026.pdf" target="_blank">CV</a>
-    </div>
+  </div>
+</div>
+
+<div class="cv-center">
+  <a href="/pdfs/Visconti_cv_february2026.pdf" target="_blank" class="cv-button">Download CV (PDF)</a>
+  <div class="cv-updated">Updated February 2026</div>
+  <div class="cv-scholar">
+    <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ" target="_blank">Google Scholar</a>
   </div>
 </div>
 
