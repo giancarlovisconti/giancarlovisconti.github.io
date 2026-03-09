@@ -15,15 +15,15 @@ layout: page
 <style>
   /* ── Research page styles ── */
   .research-intro {
-    max-width: 680px;
+    max-width: 740px;
     margin-bottom: 2.4rem;
     line-height: 1.65;
     color: #3a3a3a;
-    font-size: 1.02rem;
+    font-size: 1.12rem;
   }
 
   .research-section-title {
-    font-size: 1.25rem;
+    font-size: 1.4rem;
     font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -53,13 +53,14 @@ layout: page
 
   .pub-title {
     font-weight: 600;
+    font-size: 1.08rem;
     color: #1a1a1a;
     line-height: 1.45;
   }
 
   .pub-meta {
     margin-top: 0.2rem;
-    font-size: 0.93rem;
+    font-size: 1.0rem;
     color: #555;
     line-height: 1.5;
   }
@@ -86,7 +87,7 @@ layout: page
 
   .pub-year {
     display: inline-block;
-    font-size: 0.82rem;
+    font-size: 0.92rem;
     font-weight: 600;
     color: #777;
     margin-right: 0.3rem;
@@ -99,7 +100,7 @@ layout: page
 
   .pub-links a {
     display: inline-block;
-    font-size: 0.78rem;
+    font-size: 0.88rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -107,7 +108,7 @@ layout: page
     background: #fef2f2;
     border: 1px solid #f5c6c6;
     border-radius: 3px;
-    padding: 0.15rem 0.55rem;
+    padding: 0.2rem 0.6rem;
     margin-right: 0.35rem;
     margin-top: 0.25rem;
     text-decoration: none;
@@ -129,31 +130,31 @@ layout: page
     background: #fff8e1;
     border: 1px solid #ffe082;
     border-radius: 3px;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     color: #8d6e00;
     font-weight: 500;
   }
 
   .pub-award::before {
     content: "★";
-    font-size: 0.75rem;
+    font-size: 0.82rem;
   }
 
   .pub-status {
     display: inline-block;
-    font-size: 0.78rem;
+    font-size: 0.88rem;
     font-weight: 600;
     color: #2e7d32;
     background: #e8f5e9;
     border: 1px solid #a5d6a7;
     border-radius: 3px;
-    padding: 0.15rem 0.55rem;
+    padding: 0.2rem 0.6rem;
     margin-top: 0.2rem;
   }
 
   .pub-rejoinder {
     margin-top: 0.3rem;
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     color: #666;
   }
 
