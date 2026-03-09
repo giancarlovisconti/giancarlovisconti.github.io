@@ -33,8 +33,8 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
   }
 
   .bio-photo {
-    width: 220px;
-    min-width: 220px;
+    width: 260px;
+    min-width: 260px;
     border-radius: 4px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.1);
   }
@@ -64,32 +64,6 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
     margin-top: 1.2rem;
     font-size: 17px;
     color: #555;
-  }
-
-  .bio-links {
-    margin-top: 1rem;
-  }
-
-  .bio-links a {
-    display: inline-block;
-    font-size: 14px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #c62828;
-    background: #fef2f2;
-    border: 1px solid #f5c6c6;
-    border-radius: 3px;
-    padding: 0.25rem 0.65rem;
-    margin-right: 0.35rem;
-    text-decoration: none;
-    transition: all 0.15s ease;
-  }
-
-  .bio-links a:hover {
-    background: #c62828;
-    color: #fff;
-    border-color: #c62828;
   }
 
   .photo-gallery {
@@ -161,15 +135,12 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
     <div class="bio-contact">
       Pueden contactarme (en inglés o español) a gvis[AT]umd[DOT]edu.
     </div>
-    <div class="bio-links">
-      <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ">Google Scholar</a>
-    </div>
   </div>
 </div>
 
 <div class="photo-gallery">
   <figure>
-    <img src="/img/puerto_varas.jpg" alt="Puerto Varas">
+    <img src="/img/pvaras.jpg" alt="Puerto Varas">
     <figcaption>Puerto Varas, Chile</figcaption>
   </figure>
   <figure>
