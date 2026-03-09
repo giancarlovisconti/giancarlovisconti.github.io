@@ -36,4 +36,8 @@ You can reach me (in English or Spanish) at gvis[AT]umd[DOT]edu.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
 
+<img src="/img/puerto_varas.jpg" alt="Puerto Varas" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
+
+<img src="/img/santiago.jpg" alt="Santiago" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
+
 
