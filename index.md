@@ -1,16 +1,16 @@
 ---
 layout: page
-meta-title: Giancarlo Visconti"
-meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, PSU, Penn State, Pennsylvania State University, Purdue University, Columbia University, UMD, Maryland, University of Maryland, College Park"
+meta-title: "Giancarlo Visconti"
+meta-description: "Giancarlo Visconti, Assistant Professor, Government and Politics, University of Maryland, College Park, Columbia University, Political Science"
 ---
 
 <head>
-  <title> Giancarlo Visconti </title>
+  <title>Giancarlo Visconti</title>
   <meta name="author" content="Giancarlo Visconti">
-  <meta name="description" content="Giancarlo Visconti's webpage">
-  <meta name="title" content="Giancarlo Visconti, Penn State">
-  <meta name="keywords" content="Giancarlo Visconti, Columbia, Purdue, Pennsylvania, Penn State, PSU, Chile, Political Science">
-  <meta name="tags" content="Giancarlo Visconti, Columbia, Purdue, Pennsylvania, Penn State, PSU, Chile, Political Science, Disasters, Crime, Economic">
+  <meta name="description" content="Giancarlo Visconti, Assistant Professor of Government and Politics at the University of Maryland, College Park.">
+  <meta name="title" content="Giancarlo Visconti, University of Maryland">
+  <meta name="keywords" content="Giancarlo Visconti, University of Maryland, UMD, College Park, Columbia, Penn State, Purdue, Chile, Political Science, Comparative Politics, Latin America">
+  <meta name="tags" content="Giancarlo Visconti, University of Maryland, Columbia, Chile, Political Science, Crime, Migration, Ideology, Causal Inference">
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
@@ -20,24 +20,136 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Political Science, P
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-0J6S13EH3M');
 </script>
 
-<img src="/img/bio3.jpg" alt="Giancarlo" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
+<style>
+  /* ── Homepage styles ── */
+  .bio-wrapper {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2.5rem;
+  }
 
-I am an Assistant Professor of Government and Politics at the [University of Maryland, College Park](https://gvpt.umd.edu/). I received my Ph.D. from [Columbia University](https://polisci.columbia.edu/). I grew up in the [south of Chile](https://www.gochile.cl/en/puerto-varas/) and completed my undergraduate studies at the [Universidad Católica de Chile](http://www.cienciapolitica.uc.cl/).
+  .bio-photo {
+    width: 300px;
+    min-width: 300px;
+    border-radius: 4px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+  }
 
-I study comparative political behavior in contexts of insecurity and social change, with a regional focus on Latin America. My research examines how crime, migration, and other sources of uncertainty shape political attitudes, ideology, and accountability among citizens and political leaders. Across this work, I use and advance methods for drawing causal inferences from both experimental and observational data.
+  .bio-text {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #333;
+  }
 
-My research has been published or is forthcoming in the *Journal of Politics*, *British Journal of Political Science*, *Comparative Politics*, *Political Science Research and Methods*, *Public Opinion Quarterly*, *Political Behavior*, *Electoral Studies*, and *Latin American Politics and Society*, among other outlets.
+  .bio-text p {
+    margin-bottom: 1rem;
+  }
 
-You can reach me (in English or Spanish) at gvis[AT]umd[DOT]edu.
+  .bio-text a {
+    color: #c62828;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease;
+  }
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ&scilu=&scisig=AMD79ooAAAAAXRGfIK8Deuk3aIMhnVdfebQr0KVNwo_d&gmla=AJsN-F7TdMS3DiqRXhrzPMRLgtkQRs52l9RrS3c5pMTevOpu91oHkeMBoql5ZbmIgGrhaHvIDuhdN-O9LgGQaMjZZtpEe5SppAPsEgrt3uXyHgM3-2nyOtE&sciund=11565639192183004832)
+  .bio-text a:hover {
+    border-bottom-color: #c62828;
+  }
 
-<img src="/img/puerto_varas.jpg" alt="Puerto Varas" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
+  .bio-contact {
+    margin-top: 1.2rem;
+    font-size: 17px;
+    color: #555;
+  }
 
-<img src="/img/santiago.jpg" alt="Santiago" style="float:left;width:322px;height:402px; margin-right:15px; margin-bottom:15px">
+  .bio-links {
+    margin-top: 1rem;
+  }
 
+  .bio-links a {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #c62828;
+    background: #fef2f2;
+    border: 1px solid #f5c6c6;
+    border-radius: 3px;
+    padding: 0.25rem 0.65rem;
+    margin-right: 0.35rem;
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
 
+  .bio-links a:hover {
+    background: #c62828;
+    color: #fff;
+    border-color: #c62828;
+  }
+
+  .photo-gallery {
+    display: flex;
+    gap: 1.2rem;
+    margin-top: 2rem;
+  }
+
+  .photo-gallery img {
+    width: 50%;
+    border-radius: 4px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    object-fit: cover;
+    height: 320px;
+  }
+
+  @media (max-width: 768px) {
+    .bio-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .bio-photo {
+      width: 260px;
+      min-width: auto;
+    }
+
+    .photo-gallery {
+      flex-direction: column;
+    }
+
+    .photo-gallery img {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+
+<div class="bio-wrapper">
+  <img src="/img/bio3.jpg" alt="Giancarlo Visconti" class="bio-photo">
+  <div class="bio-text">
+    <p>
+      I am an Assistant Professor of Government and Politics at the <a href="https://gvpt.umd.edu/">University of Maryland, College Park</a>. I received my Ph.D. from <a href="https://polisci.columbia.edu/">Columbia University</a>. I grew up in the <a href="https://www.gochile.cl/en/puerto-varas/">south of Chile</a> and completed my undergraduate studies at the <a href="http://www.cienciapolitica.uc.cl/">Universidad Católica de Chile</a>.
+    </p>
+    <p>
+      I study comparative political behavior in contexts of insecurity and social change, with a regional focus on Latin America. My research examines how crime, migration, and other sources of uncertainty shape political attitudes, ideology, and accountability among citizens and political leaders. Across this work, I use and advance methods for drawing causal inferences from both experimental and observational data.
+    </p>
+    <p>
+      My research has been published or is forthcoming in the <em>Journal of Politics</em>, <em>British Journal of Political Science</em>, <em>Comparative Politics</em>, <em>Political Science Research and Methods</em>, <em>Public Opinion Quarterly</em>, <em>Political Behavior</em>, <em>Electoral Studies</em>, and <em>Latin American Politics and Society</em>, among other outlets.
+    </p>
+    <div class="bio-contact">
+      You can reach me (in English or Spanish) at gvis[AT]umd[DOT]edu.
+    </div>
+    <div class="bio-links">
+      <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ">Google Scholar</a>
+    </div>
+  </div>
+</div>
+
+<div class="photo-gallery">
+  <img src="/img/puerto_varas.jpg" alt="Puerto Varas">
+  <img src="/img/santiago.jpg" alt="Santiago">
+</div>
