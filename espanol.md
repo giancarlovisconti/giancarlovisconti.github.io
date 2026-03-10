@@ -25,18 +25,19 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
 
 <style>
   /* ── Estilos página principal ── */
-  .bio-wrapper {
-    display: flex;
-    gap: 2rem;
-    align-items: flex-start;
+  .bio-section {
     margin-bottom: 2.5rem;
+    overflow: hidden;
   }
 
   .bio-photo {
-    width: 260px;
-    min-width: 260px;
+    float: left;
+    width: 240px;
+    height: 300px;
+    object-fit: cover;
     border-radius: 4px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    margin: 0 2rem 1rem 0;
   }
 
   .bio-text {
@@ -95,14 +96,11 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
   }
 
   @media (max-width: 768px) {
-    .bio-wrapper {
-      flex-direction: column;
-      align-items: center;
-    }
-
     .bio-photo {
-      width: 260px;
-      min-width: auto;
+      float: none;
+      display: block;
+      width: 240px;
+      margin: 0 auto 1.5rem auto;
     }
 
     .photo-gallery {
@@ -120,7 +118,7 @@ meta-description: "Giancarlo Visconti, Profesor Asistente, Gobierno y Política,
   }
 </style>
 
-<div class="bio-wrapper">
+<div class="bio-section">
   <img src="/img/bio3.jpg" alt="Giancarlo Visconti" class="bio-photo">
   <div class="bio-text">
     <p>
