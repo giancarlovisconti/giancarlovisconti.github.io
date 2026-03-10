@@ -27,6 +27,7 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
   /* ── Homepage styles ── */
   .bio-wrapper {
     display: flex;
+    flex-direction: row-reverse;
     gap: 2rem;
     align-items: flex-start;
     margin-bottom: 2.5rem;
