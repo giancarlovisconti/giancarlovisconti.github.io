@@ -223,6 +223,14 @@ layout: page
 <ul class="media-list">
 
   <li class="media-entry">
+    <div class="media-title"><a href="https://www.bloomberg.com/news/articles/2026-03-12/chile-s-new-president-brings-back-tie-in-vow-to-restore-order">	
+Chile's New President Brings Back Tie in Vow to Restore Order</a></div>
+    <div class="media-meta">
+      <span class="media-venue">Bloomberg</span> · <span class="media-date">March 11, 2026</span>
+    </div>
+  </li>
+
+  <li class="media-entry">
     <div class="media-title"><a href="https://www.bloomberg.com/news/articles/2025-12-16/odd-couple-kast-milei-transform-south-american-rivalry-into-right-wing-bromance?embedded-checkout=true">Milei Embraces Chile's President Elect, Cementing Right-Wing Alliance</a></div>
     <div class="media-meta">
       <span class="media-venue">Bloomberg</span> · <span class="media-date">December 17, 2025</span>
