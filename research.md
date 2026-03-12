@@ -518,7 +518,7 @@ layout: page
     </div>
     <div class="pub-status">2nd R&amp;R — Journal of Politics</div>
     <div class="pub-links">
-      <a href="/pdfs/Dalton and Visconti.2025.Domestic_violence.pdf">Paper</a>
+      <a href="/pdfs/Dalton and Visconti.2026.Domestic_violence.pdf">Paper</a>
     </div>
   </li>
 
