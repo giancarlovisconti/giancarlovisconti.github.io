@@ -223,6 +223,14 @@ layout: page
 <ul class="media-list">
 
   <li class="media-entry">
+    <div class="media-title"><a href="https://www.bloomberglinea.com/latinoamerica/chile/kast-arranca-su-gobierno-en-chile-con-foco-en-seguridad-migracion-y-recorte-del-gasto/">	
+Kast arranca su gobierno en Chile con foco en seguridad, migración y recorte del gasto</a></div>
+    <div class="media-meta">
+      <span class="media-venue">Bloomberg Línea</span> · <span class="media-date">March 12, 2026</span>
+    </div>
+  </li>
+
+  <li class="media-entry">
     <div class="media-title"><a href="https://www.bloomberg.com/news/articles/2026-03-12/chile-s-new-president-brings-back-tie-in-vow-to-restore-order">	
 Chile's New President Brings Back Tie in Vow to Restore Order</a></div>
     <div class="media-meta">
