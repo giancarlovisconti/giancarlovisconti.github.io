@@ -195,8 +195,8 @@ meta-description: "Giancarlo Visconti, Assistant Professor, Government and Polit
 </div>
 
 <div class="cv-center">
-  <a href="/pdfs/Visconti_cv_february2026.pdf" target="_blank" class="cv-button">Download CV</a>
-  <div class="cv-updated">Updated February 2026</div>
+  <a href="/pdfs/Visconti_cv_march2026.pdf" target="_blank" class="cv-button">Download CV</a>
+  <div class="cv-updated">Updated March 2026</div>
   <div class="cv-scholar">
     <a href="https://scholar.google.com/citations?hl=en&user=IYungBYAAAAJ" target="_blank">Google Scholar</a>
   </div>
