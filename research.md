@@ -240,10 +240,10 @@ layout: page
     <div class="pub-title">"Money and Time in Access to Public Services: How do Citizens Evaluate Different Forms of Bureaucratic Corruption?"</div>
     <div class="pub-meta">
       <span class="coauthors">with <a href="http://www.miguelcarreras.com/">Miguel Carreras</a> and <a href="https://sofiabvera.weebly.com/">Sofia Vera</a></span>
-      <br><span class="pub-year">2024</span> <span class="pub-venue">Comparative Politics</span>
+      <br><span class="pub-year">2025</span> <span class="pub-venue">Comparative Politics</span>
     </div>
     <div class="pub-links">
-      <a href="/pdfs/Carreras, Vera and Visconti.2024.Comparative Politics.pdf">Paper</a>
+      <a href="/pdfs/Carreras, Vera and Visconti.2025.Comparative Politics.pdf">Paper</a>
     </div>
   </li>
 
