@@ -557,7 +557,7 @@ layout: page
       <span class="coauthors">with <a href="https://pabloargote.github.io/">Pablo Argote</a> and <a href="https://nicolasdelacerda.com/">Nicolás de la Cerda</a></span>
     </div>
     <div class="pub-links">
-      <a href="/pdfs/Argote, de la Cerda and Visconti.2025.Thick and Thin.pdf">Paper</a>
+      <a href="/pdfs/Argote, de la Cerda and Visconti.2026.Thick and Thin.pdf">Paper</a>
     </div>
   </li>
 
