@@ -168,6 +168,18 @@ layout: page
 <ul class="pub-list">
 
   <li class="pub-entry">
+    <div class="pub-title">"Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence"</div>
+    <div class="pub-meta">
+      <span class="coauthors">with <a href="https://polisci.la.psu.edu/people/maya-dalton/">Maya Dalton</a></span>
+    </div>
+    <br><span class="pub-year">Conditionally Accepted</span> <span class="pub-venue">Journal of Politics</span>
+    </div>
+    <div class="pub-links">
+      <a href="/pdfs/Dalton and Visconti.2026.Domestic_violence.pdf">Paper</a>
+    </div>
+  </li>
+
+  <li class="pub-entry">
     <div class="pub-title">"Beyond Rejection: Ideological Belonging in a Weak-Party System"</div>
     <div class="pub-meta">
       <span class="coauthors">with <a href="https://pabloargote.github.io/">Pablo Argote</a></span>
@@ -510,17 +522,6 @@ layout: page
 <!-- ═══════════════════════════════════════════ -->
 
 <ul class="pub-list">
-
-  <li class="pub-entry">
-    <div class="pub-title">"Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence"</div>
-    <div class="pub-meta">
-      <span class="coauthors">with <a href="https://polisci.la.psu.edu/people/maya-dalton/">Maya Dalton</a></span>
-    </div>
-    <div class="pub-status">2nd R&amp;R — Journal of Politics</div>
-    <div class="pub-links">
-      <a href="/pdfs/Dalton and Visconti.2026.Domestic_violence.pdf">Paper</a>
-    </div>
-  </li>
 
   <li class="pub-entry">
     <div class="pub-title">"Immigration and Nationalistic Attitudes: Panel Evidence from Chile"</div>
