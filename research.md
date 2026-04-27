@@ -546,9 +546,9 @@ layout: page
   </li>
 
   <li class="pub-entry">
-    <div class="pub-title">"The Legacies of Civil Wars: Long-Term Effects of Armed Conflict on Voter Choices"</div>
+    <div class="pub-title">"Elections under Contested Authority: Sustained Violence, Incumbent Punishment, and Challenger Mobilization in Colombia"</div>
     <div class="pub-meta">
-      <span class="coauthors">with <a href="https://ccaveros.github.io/">Cecilia Cavero-Sánchez</a></span>
+      <span class="coauthors">with <a href="https://ccaveros.github.io/">Cecilia Cavero</a></span>
     </div>
   </li>
 
