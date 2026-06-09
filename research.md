@@ -171,11 +171,11 @@ layout: page
   <div class="pub-title">"Representation Behind Closed Doors: The Effect of Electing Women Mayors on Domestic Violence"</div>
   <div class="pub-meta">
     <span class="coauthors">with <a href="https://polisci.la.psu.edu/people/maya-dalton/">Maya Dalton</a></span><br>
-    <span class="pub-year">Forthcoming</span>
+    <span class="pub-year">2026</span>
     <span class="pub-venue">Journal of Politics</span>
   </div>
   <div class="pub-links">
-    <a href="/pdfs/Dalton and Visconti.2026.Domestic_violence.pdf">Paper</a>
+    <a href="https://www.journals.uchicago.edu/doi/epdf/10.1086/742608">Paper</a>
   </div>
 </li>
 
