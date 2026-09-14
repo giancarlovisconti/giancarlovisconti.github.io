@@ -175,7 +175,7 @@ layout: page
     <span class="pub-venue">Journal of Politics</span>
   </div>
   <div class="pub-links">
-    <a href="https://www.journals.uchicago.edu/doi/epdf/10.1086/742608">Paper</a>
+    <a href="/pdfs/Dalton and Visconti.2026.JOP.pdf">Paper</a>
   </div>
 </li>
 
